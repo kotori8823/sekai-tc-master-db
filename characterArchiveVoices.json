@@ -5227,13 +5227,13 @@
     "gameCharacterId": 1,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "どうかな？　今の歌",
-    "displayPhrase2": "まっすぐで、力強いですね",
+    "displayPhrase": "剛才的歌怎麼樣？",
+    "displayPhrase2": "听上去非常真挚有力。",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15823,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2010151,
@@ -5241,13 +5241,13 @@
     "gameCharacterId": 1,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "こんな感じでしょうか",
-    "displayPhrase2": "音程の取りかた、勉強になるな",
+    "displayPhrase": "應該是這種感覺吧。",
+    "displayPhrase2": "这种保持音准的技巧很值得借鉴啊。",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15824,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2010152,
@@ -5255,13 +5255,13 @@
     "gameCharacterId": 1,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "想いを、遠くまで……！",
-    "displayPhrase2": "わ、今のいい感じじゃん！",
+    "displayPhrase": "將心意傳到遠方……！",
+    "displayPhrase2": "哇，刚才那段感觉不错！",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15825,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2010153,
@@ -5269,13 +5269,13 @@
     "gameCharacterId": 1,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "一緒にわかせちゃおう！",
-    "displayPhrase2": "白石さん、頼もしいな",
+    "displayPhrase": "一起讓場子熱起來吧！",
+    "displayPhrase2": "白石同学真可靠啊。",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15826,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2020001,
@@ -17477,13 +17477,13 @@
     "gameCharacterId": 7,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "これがわたしの本気よ！",
-    "displayPhrase2": "すごい……って、集中しなくちゃ！",
+    "displayPhrase": "這就是我的真本事！",
+    "displayPhrase2": "好厉害……啊，我也得集中精神了！",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15821,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2070144,
@@ -17491,13 +17491,13 @@
     "gameCharacterId": 7,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "歌に気持ちを込めて——",
-    "displayPhrase2": "綺麗な歌！　さすがね草薙さん！",
+    "displayPhrase": "將感情放入歌聲中──",
+    "displayPhrase2": "好美的歌声！不愧是草薙同学！",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15822,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2080001,
@@ -21705,13 +21705,13 @@
     "gameCharacterId": 9,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "私、リードするね！",
-    "displayPhrase2": "こはねちゃん、メラメラだー！",
+    "displayPhrase": "我來帶領大家吧！",
+    "displayPhrase2": "小羽充满了斗志呢！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15839,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2090150,
@@ -21719,13 +21719,13 @@
     "gameCharacterId": 9,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "まだまだ元気いっぱいだね！",
-    "displayPhrase2": "うん！　たくさん歌おうね～♪",
+    "displayPhrase": "還很有精神呢！",
+    "displayPhrase2": "嗯！我们还要唱很多歌哦～♪",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15840,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2090151,
@@ -21733,13 +21733,13 @@
     "gameCharacterId": 9,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "笑顔になってくれてるかな",
-    "displayPhrase2": "大丈夫♪　とってもいい歌だもん！",
+    "displayPhrase": "大家有露出笑容嗎？",
+    "displayPhrase2": "没问题♪毕竟这首歌非常棒啊！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15841,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2090152,
@@ -21747,13 +21747,13 @@
     "gameCharacterId": 9,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "ふたりで踊ろ～っ☆",
-    "displayPhrase2": "わ！　ショーで見たダンスだ！",
+    "displayPhrase": "兩人一起跳舞～☆",
+    "displayPhrase2": "哇！是在演出里看过的舞步！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15842,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2090153,
@@ -21761,13 +21761,13 @@
     "gameCharacterId": 9,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "こはねちゃん、かっこいい～！",
-    "displayPhrase2": "え！　そ、そんな……！",
+    "displayPhrase": "小羽好帥～！",
+    "displayPhrase2": "咦！哪、哪有……！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15843,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2090154,
@@ -21775,13 +21775,13 @@
     "gameCharacterId": 9,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "キラキラるるる～ん♪",
-    "displayPhrase2": "えへへ。キラキラるるる～ん♪",
+    "displayPhrase": "閃亮亮嚕嚕嚕～♪",
+    "displayPhrase2": "嘿嘿。闪闪亮啦啦啦～♪",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15844,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2100001,
@@ -23721,13 +23721,13 @@
     "gameCharacterId": 10,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "想いを、遠くまで……！",
-    "displayPhrase2": "わ、今のいい感じじゃん！",
+    "displayPhrase": "將心意傳到遠方……！",
+    "displayPhrase2": "哇，刚才那段感觉不错！",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15825,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2100140,
@@ -23735,13 +23735,13 @@
     "gameCharacterId": 10,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "一緒にわかせちゃおう！",
-    "displayPhrase2": "白石さん、頼もしいな",
+    "displayPhrase": "一起讓場子熱起來吧！",
+    "displayPhrase2": "白石同学真可靠啊。",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15826,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2100141,
@@ -27781,13 +27781,13 @@
     "gameCharacterId": 12,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "どうかな？　今の歌",
-    "displayPhrase2": "まっすぐで、力強いですね",
+    "displayPhrase": "剛才的歌怎麼樣？",
+    "displayPhrase2": "听上去非常真挚有力。",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15823,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2120140,
@@ -27795,13 +27795,13 @@
     "gameCharacterId": 12,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "こんな感じでしょうか",
-    "displayPhrase2": "音程の取りかた、勉強になるな",
+    "displayPhrase": "應該是這種感覺吧。",
+    "displayPhrase2": "这种保持音准的技巧很值得借鉴啊。",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15824,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2130001,
@@ -32037,13 +32037,13 @@
     "gameCharacterId": 14,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "ふたりで踊ろ～っ☆",
-    "displayPhrase2": "わ！　ショーで見たダンスだ！",
+    "displayPhrase": "兩人一起跳舞～☆",
+    "displayPhrase2": "哇！是在演出里看过的舞步！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15842,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2140148,
@@ -32051,13 +32051,13 @@
     "gameCharacterId": 14,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "こはねちゃん、かっこいい～！",
-    "displayPhrase2": "え！　そ、そんな……！",
+    "displayPhrase": "小羽好帥～！",
+    "displayPhrase2": "咦！哪、哪有……！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15843,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2140149,
@@ -32065,13 +32065,13 @@
     "gameCharacterId": 14,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "キラキラるるる～ん♪",
-    "displayPhrase2": "えへへ。キラキラるるる～ん♪",
+    "displayPhrase": "閃亮亮嚕嚕嚕～♪",
+    "displayPhrase2": "嘿嘿。闪闪亮啦啦啦～♪",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15844,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2140150,
@@ -32079,13 +32079,13 @@
     "gameCharacterId": 14,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "私、リードするね！",
-    "displayPhrase2": "こはねちゃん、メラメラだー！",
+    "displayPhrase": "我來帶領大家吧！",
+    "displayPhrase2": "小羽充满了斗志呢！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15839,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2140151,
@@ -32093,13 +32093,13 @@
     "gameCharacterId": 14,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "まだまだ元気いっぱいだね！",
-    "displayPhrase2": "うん！　たくさん歌おうね～♪",
+    "displayPhrase": "還很有精神呢！",
+    "displayPhrase2": "嗯！我们还要唱很多歌哦～♪",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15840,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2140152,
@@ -32107,13 +32107,13 @@
     "gameCharacterId": 14,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "笑顔になってくれてるかな",
-    "displayPhrase2": "大丈夫♪　とってもいい歌だもん！",
+    "displayPhrase": "大家有露出笑容嗎？",
+    "displayPhrase2": "没问题♪毕竟这首歌非常棒啊！",
     "characterArchiveVoiceTagId": 6,
     "externalId": 15841,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2150001,
@@ -33857,13 +33857,13 @@
     "gameCharacterId": 15,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "これがわたしの本気よ！",
-    "displayPhrase2": "すごい……って、集中しなくちゃ！",
+    "displayPhrase": "這就是我的真本事！",
+    "displayPhrase2": "好厉害……啊，我也得集中精神了！",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15821,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2150126,
@@ -33871,13 +33871,13 @@
     "gameCharacterId": 15,
     "unit": null,
     "characterArchiveVoiceType": "live_cutin_pair",
-    "displayPhrase": "歌に気持ちを込めて——",
-    "displayPhrase2": "綺麗な歌！　さすがね草薙さん！",
+    "displayPhrase": "將感情放入歌聲中──",
+    "displayPhrase2": "好美的歌声！不愧是草薙同学！",
     "characterArchiveVoiceTagId": 1,
     "externalId": 15822,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1764473400000
+    "displayStartAt": 1752118200000
   },
   {
     "id": 2160001,
@@ -144113,7 +144113,7 @@
     "externalId": 1115,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1783926000000
+    "displayStartAt": 1752390000000
   },
   {
     "id": 8120001,
@@ -144533,7 +144533,7 @@
     "externalId": 1116,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1783926000000
+    "displayStartAt": 1752390000000
   },
   {
     "id": 8130001,
@@ -144953,7 +144953,7 @@
     "externalId": 1117,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1783926000000
+    "displayStartAt": 1752390000000
   },
   {
     "id": 8140001,
@@ -146185,7 +146185,7 @@
     "externalId": 1118,
     "assetName": null,
     "isNextGrade": null,
-    "displayStartAt": 1783926000000
+    "displayStartAt": 1752390000000
   },
   {
     "id": 8170001,
