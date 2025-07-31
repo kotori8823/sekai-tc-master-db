@@ -111793,6 +111793,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
     "name": null,
+    "id": 54,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": null,
     "id": 100001,
     "resourceBoxType": "costume_3d"
   },
@@ -114488,6 +114495,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gift_detail",
     "name": null,
+    "id": 1504,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
     "id": 10001,
     "resourceBoxType": "expand"
   },
@@ -116120,6 +116134,13 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "此為初音未來日紀念登入活動的報酬。",
     "id": 157,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "女神異聞錄5 皇家版聯動紀念禮物箱",
+    "id": 171,
     "resourceBoxType": "list"
   },
   {
@@ -146542,6 +146563,20 @@
     "resourceBoxPurpose": "mission_reward",
     "name": "劇場版公開記念スタンプミッション報酬",
     "id": 1710,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[女神異聞錄5 皇家版聯動紀念]集章任務報酬",
+    "id": 1767,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[女神異聞錄5 皇家版聯動紀念]集章任務報酬",
+    "id": 1768,
     "resourceBoxType": "expand"
   },
   {
