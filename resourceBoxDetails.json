@@ -380912,6 +380912,70 @@
     "resourceType": "card"
   },
   {
+    "resourceBoxId": 341,
+    "resourceQuantity": 1,
+    "resourceId": 1042,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 342,
+    "resourceQuantity": 1,
+    "resourceId": 1043,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 343,
+    "resourceQuantity": 1,
+    "resourceId": 1048,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 344,
+    "resourceQuantity": 1,
+    "resourceId": 1049,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 345,
+    "resourceQuantity": 1,
+    "resourceId": 1053,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 346,
+    "resourceQuantity": 1,
+    "resourceId": 1054,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 347,
+    "resourceQuantity": 1,
+    "resourceId": 1062,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
+    "resourceBoxId": 348,
+    "resourceQuantity": 1,
+    "resourceId": 1063,
+    "resourceBoxPurpose": "event_exchange",
+    "resourceLevel": 1,
+    "resourceType": "card"
+  },
+  {
     "resourceBoxId": 9000,
     "resourceQuantity": 5,
     "resourceId": 15,

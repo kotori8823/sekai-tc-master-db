@@ -70500,6 +70500,62 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "event_exchange",
     "name": null,
+    "id": 341,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
+    "id": 342,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
+    "id": 343,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
+    "id": 344,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
+    "id": 345,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
+    "id": 346,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
+    "id": 347,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
+    "id": 348,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_exchange",
+    "name": null,
     "id": 9000,
     "resourceBoxType": "expand"
   },
