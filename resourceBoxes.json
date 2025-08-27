@@ -4553,6 +4553,104 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 342,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 343,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 344,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 345,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 346,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 347,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 348,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 349,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 350,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 351,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 352,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 353,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 354,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 449,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 901,
     "resourceBoxType": "expand"
   },
@@ -6324,6 +6422,48 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 30119,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30120,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30121,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30122,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30123,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30124,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 40001,
     "resourceBoxType": "expand"
   },
@@ -7949,6 +8089,34 @@
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "name": null,
     "id": 30093,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30119,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30120,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30121,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30122,
     "resourceBoxType": "expand"
   },
   {
@@ -71072,6 +71240,55 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400094,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400095,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400096,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400097,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400098,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400099,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "limit_mission_01",
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400100,
+    "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "event_ranking_reward",
     "name": null,
     "id": 1,
@@ -111856,6 +112073,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
     "name": null,
+    "id": 55,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": null,
     "id": 100001,
     "resourceBoxType": "costume_3d"
   },
@@ -111871,6 +112095,20 @@
     "resourceBoxPurpose": "gacha_extra",
     "name": null,
     "id": 100003,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[园艺师]服装",
+    "id": 200002,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[童话]服装",
+    "id": 200003,
     "resourceBoxType": "expand"
   },
   {
@@ -116200,6 +116438,13 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲[魔法未来2025]登入活動的報酬",
+    "id": 173,
+    "resourceBoxType": "list"
+  },
+  {
     "assetbundleName": null,
     "resourceBoxPurpose": "login_bonus",
     "name": "此為回归玩家登入活動第1天的報酬。                                                        ",
@@ -116958,7 +117203,7 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "login_bonus",
-    "name": "[花里實乃理]HAPPY BIRTHDAY登入活動的報酬",
+    "name": "HAPPY BIRTHDAY登入活動的報酬",
     "id": 1109,
     "resourceBoxType": "expand"
   },
@@ -117175,6 +117420,20 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "login_bonus",
+    "name": "HAPPY ANNIVERSARY登入活動",
+    "id": 1140,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "HAPPY ANNIVERSARY登入活動",
+    "id": 1141,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
     "name": "此為回归玩家登入活動第1天的報酬。                                                        ",
     "id": 1142,
     "resourceBoxType": "expand"
@@ -117220,6 +117479,13 @@
     "name": "此為回归玩家登入活動第7天的報酬。                                                        ",
     "id": 1148,
     "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[鳳笑夢]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1151,
+    "resourceBoxType": "list"
   },
   {
     "assetbundleName": "gacha_cos0016_01",
@@ -128116,434 +128382,434 @@
   {
     "assetbundleName": "gacha_cos0693_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "スィーズ・ベスティ[アナザー1]",
+    "name": "擄獲摯友[異色1]",
     "id": 1557,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0693_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "スィーズ・ベスティ[アナザー2]",
+    "name": "擄獲摯友[異色2]",
     "id": 1558,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0693_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "スィーズ・ベスティ[アナザー3]",
+    "name": "擄獲摯友[異色3]",
     "id": 1559,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0693_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "スィーズ・ベスティ[ヘアスタイル]",
+    "name": "擄獲摯友[髮型]",
     "id": 1560,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0694_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "クロワール・ベスティ[アナザー1]",
+    "name": "相信摯友[異色1]",
     "id": 1561,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0694_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "クロワール・ベスティ[アナザー2]",
+    "name": "相信摯友[異色2]",
     "id": 1562,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0694_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "クロワール・ベスティ[アナザー3]",
+    "name": "相信摯友[異色3]",
     "id": 1563,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0694_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "クロワール・ベスティ[ヘアスタイル]",
+    "name": "相信摯友[髮型]",
     "id": 1564,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0695_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "プロテージェ・パピヨン[アナザー1]",
+    "name": "學徒蝴蝶結[異色1]",
     "id": 1565,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0695_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "プロテージェ・パピヨン[アナザー2]",
+    "name": "學徒蝴蝶結[異色2]",
     "id": 1566,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0695_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "プロテージェ・パピヨン[アナザー3]",
+    "name": "學徒蝴蝶結[異色3]",
     "id": 1567,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0695_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "プロテージェ・パピヨン[ヘアスタイル]",
+    "name": "學徒蝴蝶結[髮型]",
     "id": 1568,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0700_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "飛翔のフェザー[アナザー1]",
+    "name": "飛翔的羽毛[異色1]",
     "id": 1569,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0700_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "飛翔のフェザー[アナザー2]",
+    "name": "飛翔的羽毛[異色2]",
     "id": 1570,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0700_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "飛翔のフェザー[アナザー3]",
+    "name": "飛翔的羽毛[異色3]",
     "id": 1571,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0701_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "鼓舞のフェザー[アナザー1]",
+    "name": "鼓舞的羽毛[異色1]",
     "id": 1572,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0701_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "鼓舞のフェザー[アナザー2]",
+    "name": "鼓舞的羽毛[異色2]",
     "id": 1573,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0701_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "鼓舞のフェザー[アナザー3]",
+    "name": "鼓舞的羽毛[異色3]",
     "id": 1574,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0702_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "扶翼のフェザー[アナザー1]",
+    "name": "扶翼的羽毛[異色1]",
     "id": 1575,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0702_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "扶翼のフェザー[アナザー2]",
+    "name": "扶翼的羽毛[異色2]",
     "id": 1576,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0702_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "扶翼のフェザー[アナザー3]",
+    "name": "扶翼的羽毛[異色3]",
     "id": 1577,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0703_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Bear in pocket[アナザー1]",
+    "name": "Bear in pocket[異色1]",
     "id": 1578,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0703_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Bear in pocket[アナザー2]",
+    "name": "Bear in pocket[異色2]",
     "id": 1579,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0703_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Bear in pocket[アナザー3]",
+    "name": "Bear in pocket[異色3]",
     "id": 1580,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0704_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Hamster in pocket[アナザー1]",
+    "name": "Hamster in pocket[異色1]",
     "id": 1581,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0704_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Hamster in pocket[アナザー2]",
+    "name": "Hamster in pocket[異色2]",
     "id": 1582,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0704_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Hamster in pocket[アナザー3]",
+    "name": "Hamster in pocket[異色3]",
     "id": 1583,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0705_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Cat in pocket[アナザー1]",
+    "name": "Cat in pocket[異色1]",
     "id": 1584,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0705_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Cat in pocket[アナザー2]",
+    "name": "Cat in pocket[異色2]",
     "id": 1585,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0705_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Cat in pocket[アナザー3]",
+    "name": "Cat in pocket[異色3]",
     "id": 1586,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0706_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Fairlady Dress[アナザー1]",
+    "name": "Fairlady Dress[異色1]",
     "id": 1587,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0706_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Fairlady Dress[アナザー2]",
+    "name": "Fairlady Dress[異色2]",
     "id": 1588,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0706_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Fairlady Dress[アナザー3]",
+    "name": "Fairlady Dress[異色3]",
     "id": 1589,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0706_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Fairlady Dress[ヘアスタイル]",
+    "name": "Fairlady Dress[髮型]",
     "id": 1590,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0707_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Livelylady Dress[アナザー1]",
+    "name": "Livelylady Dress[異色1]",
     "id": 1591,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0707_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Livelylady Dress[アナザー2]",
+    "name": "Livelylady Dress[異色2]",
     "id": 1592,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0707_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Livelylady Dress[アナザー3]",
+    "name": "Livelylady Dress[異色3]",
     "id": 1593,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0707_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "Livelylady Dress[ヘアスタイル]",
+    "name": "Livelylady Dress[髮型]",
     "id": 1594,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0708_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "順風なびく羽衣[アナザー1]",
+    "name": "順風飄逸的霓裳[異色1]",
     "id": 1595,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0708_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "順風なびく羽衣[アナザー2]",
+    "name": "順風飄逸的霓裳[異色2]",
     "id": 1596,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0708_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "順風なびく羽衣[アナザー3]",
+    "name": "順風飄逸的霓裳[異色3]",
     "id": 1597,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0708_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "順風なびく羽衣[ヘアスタイル]",
+    "name": "順風飄逸的霓裳[髮型]",
     "id": 1598,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0709_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "香風そよぐ羽衣[アナザー1]",
+    "name": "香風飄動的霓裳[異色1]",
     "id": 1599,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0709_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "香風そよぐ羽衣[アナザー2]",
+    "name": "香風飄動的霓裳[異色2]",
     "id": 1600,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0709_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "香風そよぐ羽衣[アナザー3]",
+    "name": "香風飄動的霓裳[異色3]",
     "id": 1601,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0709_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "香風そよぐ羽衣[ヘアスタイル]",
+    "name": "香風飄動的霓裳[髮型]",
     "id": 1602,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0710_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "清風はためく羽衣[アナザー1]",
+    "name": "清風飄揚的霓裳[異色1]",
     "id": 1603,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0710_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "清風はためく羽衣[アナザー2]",
+    "name": "清風飄揚的霓裳[異色2]",
     "id": 1604,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0710_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "清風はためく羽衣[アナザー3]",
+    "name": "清風飄揚的霓裳[異色3]",
     "id": 1605,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0710_hair",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "清風はためく羽衣[ヘアスタイル]",
+    "name": "清風飄揚的霓裳[髮型]",
     "id": 1606,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0733_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "ノウブル・ストリートスタイル[アナザー1]",
+    "name": "高貴街頭服裝[異色1]",
     "id": 1646,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0733_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "ノウブル・ストリートスタイル[アナザー2]",
+    "name": "高貴街頭服裝[異色2]",
     "id": 1647,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0733_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "ノウブル・ストリートスタイル[アナザー3]",
+    "name": "高貴街頭服裝[異色3]",
     "id": 1648,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0734_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "シヴァルラス・カジュアルコーデ[アナザー1]",
+    "name": "騎士風範的休閒風穿搭[異色1]",
     "id": 1649,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0734_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "シヴァルラス・カジュアルコーデ[アナザー2]",
+    "name": "騎士風範的休閒風穿搭[異色2]",
     "id": 1650,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0734_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "シヴァルラス・カジュアルコーデ[アナザー3]",
+    "name": "騎士風範的休閒風穿搭[異色3]",
     "id": 1651,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0735_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "夜空に輝くスタースーツ[アナザー1]",
+    "name": "於夜空閃耀的明星套裝[異色1]",
     "id": 1652,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0735_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "夜空に輝くスタースーツ[アナザー2]",
+    "name": "於夜空閃耀的明星套裝[異色2]",
     "id": 1653,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0735_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "夜空に輝くスタースーツ[アナザー3]",
+    "name": "於夜空閃耀的明星套裝[異色3]",
     "id": 1654,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0736_01",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "マジカルショージャケット[アナザー1]",
+    "name": "魔法表演外套[異色1]",
     "id": 1655,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0736_02",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "マジカルショージャケット[アナザー2]",
+    "name": "魔法表演外套[異色2]",
     "id": 1656,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "gacha_cos0736_03",
     "resourceBoxPurpose": "master_lesson_reward",
-    "name": "マジカルショージャケット[アナザー3]",
+    "name": "魔法表演外套[異色3]",
     "id": 1657,
     "resourceBoxType": "expand"
   },
@@ -146400,224 +146666,224 @@
   {
     "assetbundleName": "live_mission_051",
     "resourceBoxPurpose": "mission_reward",
-    "name": "星",
+    "name": "星星",
     "id": 1664,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_051_01",
     "resourceBoxPurpose": "mission_reward",
-    "name": "星[アナザー1]",
+    "name": "星星[異色1]",
     "id": 1665,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_051_02",
     "resourceBoxPurpose": "mission_reward",
-    "name": "星[アナザー2]",
+    "name": "星星[異色2]",
     "id": 1666,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_051_03",
     "resourceBoxPurpose": "mission_reward",
-    "name": "星[アナザー3]",
+    "name": "星星[異色3]",
     "id": 1667,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_052",
     "resourceBoxPurpose": "mission_reward",
-    "name": "エキゾチック",
+    "name": "異國風",
     "id": 1668,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_052_01",
     "resourceBoxPurpose": "mission_reward",
-    "name": "エキゾチック[アナザー1]",
+    "name": "異國風[異色1]",
     "id": 1669,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_052_02",
     "resourceBoxPurpose": "mission_reward",
-    "name": "エキゾチック[アナザー2]",
+    "name": "異國風[異色2]",
     "id": 1670,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_052_03",
     "resourceBoxPurpose": "mission_reward",
-    "name": "エキゾチック[アナザー3]",
+    "name": "異國風[異色3]",
     "id": 1671,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1687,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1688,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1689,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1690,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1691,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1692,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1693,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1694,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1695,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1696,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1697,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1698,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1699,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1700,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1701,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1702,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1703,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1704,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1705,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1706,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1707,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1708,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1709,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "劇場版公開記念スタンプミッション報酬",
+    "name": "劇場版上映紀念集章任務報酬",
     "id": 1710,
     "resourceBoxType": "expand"
   },
@@ -152380,6 +152646,69 @@
     "resourceBoxPurpose": "mission_reward",
     "name": "個人分數在任意類型的LIVE中超過2500000分吧。",
     "id": 900035,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "1000回响点数",
+    "id": 22222221,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "1000心愿碎片",
+    "id": 22222222,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 22222223,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 22222224,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 22222225,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 22222226,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 22222227,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 22222228,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": null,
+    "id": 22222229,
     "resourceBoxType": "expand"
   },
   {
@@ -168116,6 +168445,13 @@
     "resourceBoxPurpose": "shop_item",
     "name": null,
     "id": 10833,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 10928,
     "resourceBoxType": "expand"
   },
   {
