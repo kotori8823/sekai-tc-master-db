@@ -562720,6 +562720,14 @@
     "resourceType": "costume_3d"
   },
   {
+    "resourceBoxId": 10077,
+    "resourceQuantity": 1000,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,
