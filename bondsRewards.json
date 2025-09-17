@@ -55143,6 +55143,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": 1041502,
+    "description": "「志步和寧寧」稱號文本1",
+    "rank": 5,
+    "bondsGroupId": 10415,
+    "id": 10415005,
+    "seq": 5,
+    "bondsRewardType": "resource"
+  },
+  {
     "resourceBoxId": 1041503,
     "description": "「志步和寧寧」預設稱號",
     "rank": 5,
@@ -55242,6 +55251,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「志步和寧寧」LIVE相互對話語音1",
+    "rank": 16,
+    "bondsGroupId": 10415,
+    "id": 10415017,
+    "seq": 17,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「志步和寧寧」心願碎片",
     "rank": 16,
@@ -55329,6 +55347,15 @@
     "bondsGroupId": 10415,
     "id": 10415027,
     "seq": 27,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1041508,
+    "description": "「志步和寧寧」稱號文本2",
+    "rank": 26,
+    "bondsGroupId": 10415,
+    "id": 10415028,
+    "seq": 28,
     "bondsRewardType": "resource"
   },
   {
@@ -55422,6 +55449,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「志步和寧寧」LIVE相互對話語音2",
+    "rank": 36,
+    "bondsGroupId": 10415,
+    "id": 10415039,
+    "seq": 39,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「志步和寧寧」心願碎片",
     "rank": 36,
@@ -55509,6 +55545,15 @@
     "bondsGroupId": 10415,
     "id": 10415049,
     "seq": 49,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1041513,
+    "description": "「志步和寧寧」稱號文本3",
+    "rank": 46,
+    "bondsGroupId": 10415,
+    "id": 10415050,
+    "seq": 50,
     "bondsRewardType": "resource"
   },
   {
@@ -55602,6 +55647,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「志步和寧寧」LIVE相互對話語音3",
+    "rank": 56,
+    "bondsGroupId": 10415,
+    "id": 10415061,
+    "seq": 61,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「志步和寧寧」心願碎片",
     "rank": 56,
@@ -55689,6 +55743,15 @@
     "bondsGroupId": 10415,
     "id": 10415071,
     "seq": 71,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1041518,
+    "description": "「志步和寧寧」情誼貼圖",
+    "rank": 66,
+    "bondsGroupId": 10415,
+    "id": 10415072,
+    "seq": 72,
     "bondsRewardType": "resource"
   },
   {
@@ -96840,6 +96903,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": 1071702,
+    "description": "「愛莉和奏」稱號文本1",
+    "rank": 5,
+    "bondsGroupId": 10717,
+    "id": 10717005,
+    "seq": 5,
+    "bondsRewardType": "resource"
+  },
+  {
     "resourceBoxId": 1071703,
     "description": "「愛莉和奏」預設稱號",
     "rank": 5,
@@ -96939,6 +97011,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「愛莉和奏」LIVE相互對話語音1",
+    "rank": 16,
+    "bondsGroupId": 10717,
+    "id": 10717017,
+    "seq": 17,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「愛莉和奏」心願碎片",
     "rank": 16,
@@ -97026,6 +97107,15 @@
     "bondsGroupId": 10717,
     "id": 10717027,
     "seq": 27,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1071708,
+    "description": "「愛莉和奏」稱號文本2",
+    "rank": 26,
+    "bondsGroupId": 10717,
+    "id": 10717028,
+    "seq": 28,
     "bondsRewardType": "resource"
   },
   {
@@ -97119,6 +97209,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「愛莉和奏」LIVE相互對話語音2",
+    "rank": 36,
+    "bondsGroupId": 10717,
+    "id": 10717039,
+    "seq": 39,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「愛莉和奏」心願碎片",
     "rank": 36,
@@ -97206,6 +97305,15 @@
     "bondsGroupId": 10717,
     "id": 10717049,
     "seq": 49,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1071713,
+    "description": "「愛莉和奏」稱號文本3",
+    "rank": 46,
+    "bondsGroupId": 10717,
+    "id": 10717050,
+    "seq": 50,
     "bondsRewardType": "resource"
   },
   {
@@ -97299,6 +97407,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「愛莉和奏」LIVE相互對話語音3",
+    "rank": 56,
+    "bondsGroupId": 10717,
+    "id": 10717061,
+    "seq": 61,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「愛莉和奏」心願碎片",
     "rank": 56,
@@ -97386,6 +97503,15 @@
     "bondsGroupId": 10717,
     "id": 10717071,
     "seq": 71,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1071718,
+    "description": "「愛莉和奏」情誼貼圖",
+    "rank": 66,
+    "bondsGroupId": 10717,
+    "id": 10717072,
+    "seq": 72,
     "bondsRewardType": "resource"
   },
   {
@@ -182556,6 +182682,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": 1161902,
+    "description": "「類和繪名」稱號文本1",
+    "rank": 5,
+    "bondsGroupId": 11619,
+    "id": 11619005,
+    "seq": 5,
+    "bondsRewardType": "resource"
+  },
+  {
     "resourceBoxId": 1161903,
     "description": "「類和繪名」預設稱號",
     "rank": 5,
@@ -182655,6 +182790,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「類和繪名」LIVE相互對話語音1",
+    "rank": 16,
+    "bondsGroupId": 11619,
+    "id": 11619017,
+    "seq": 17,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「類和繪名」心願碎片",
     "rank": 16,
@@ -182742,6 +182886,15 @@
     "bondsGroupId": 11619,
     "id": 11619027,
     "seq": 27,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1161908,
+    "description": "「類和繪名」稱號文本2",
+    "rank": 26,
+    "bondsGroupId": 11619,
+    "id": 11619028,
+    "seq": 28,
     "bondsRewardType": "resource"
   },
   {
@@ -182835,6 +182988,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「類和繪名」LIVE相互對話語音2",
+    "rank": 36,
+    "bondsGroupId": 11619,
+    "id": 11619039,
+    "seq": 39,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「類和繪名」心願碎片",
     "rank": 36,
@@ -182922,6 +183084,15 @@
     "bondsGroupId": 11619,
     "id": 11619049,
     "seq": 49,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1161913,
+    "description": "「類和繪名」稱號文本3",
+    "rank": 46,
+    "bondsGroupId": 11619,
+    "id": 11619050,
+    "seq": 50,
     "bondsRewardType": "resource"
   },
   {
@@ -183015,6 +183186,15 @@
     "bondsRewardType": "resource"
   },
   {
+    "resourceBoxId": null,
+    "description": "「類和繪名」LIVE相互對話語音3",
+    "rank": 56,
+    "bondsGroupId": 11619,
+    "id": 11619061,
+    "seq": 61,
+    "bondsRewardType": "cut_in_voice"
+  },
+  {
     "resourceBoxId": 2,
     "description": "「類和繪名」心願碎片",
     "rank": 56,
@@ -183102,6 +183282,15 @@
     "bondsGroupId": 11619,
     "id": 11619071,
     "seq": 71,
+    "bondsRewardType": "resource"
+  },
+  {
+    "resourceBoxId": 1161918,
+    "description": "「類和繪名」情誼貼圖",
+    "rank": 66,
+    "bondsGroupId": 11619,
+    "id": 11619072,
+    "seq": 72,
     "bondsRewardType": "resource"
   },
   {
