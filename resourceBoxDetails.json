@@ -279792,6 +279792,14 @@
     "resourceType": "live_point"
   },
   {
+    "resourceBoxId": 90005,
+    "resourceQuantity": 1,
+    "resourceId": 19999,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
     "resourceBoxId": 91000,
     "resourceQuantity": 100,
     "resourceId": 1,
@@ -652273,7 +652281,7 @@
   },
   {
     "resourceBoxId": 449,
-    "resourceQuantity": 50,
+    "resourceQuantity": 100,
     "resourceId": null,
     "resourceBoxPurpose": "mission_reward",
     "resourceLevel": null,
