@@ -279794,7 +279794,7 @@
   {
     "resourceBoxId": 90005,
     "resourceQuantity": 1,
-    "resourceId": 19999,
+    "resourceId": 1010,
     "resourceBoxPurpose": "billing_shop_item",
     "resourceLevel": null,
     "resourceType": "material"
@@ -765505,7 +765505,7 @@
   },
   {
     "resourceBoxId": 1,
-    "resourceQuantity": 10,
+    "resourceQuantity": 100,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765513,7 +765513,7 @@
   },
   {
     "resourceBoxId": 2,
-    "resourceQuantity": 100,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765521,7 +765521,7 @@
   },
   {
     "resourceBoxId": 3,
-    "resourceQuantity": 100,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765529,7 +765529,7 @@
   },
   {
     "resourceBoxId": 4,
-    "resourceQuantity": 100,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765537,7 +765537,7 @@
   },
   {
     "resourceBoxId": 5,
-    "resourceQuantity": 100,
+    "resourceQuantity": 100000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765553,7 +765553,7 @@
   },
   {
     "resourceBoxId": 7,
-    "resourceQuantity": 10,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765561,7 +765561,7 @@
   },
   {
     "resourceBoxId": 8,
-    "resourceQuantity": 100,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765569,7 +765569,7 @@
   },
   {
     "resourceBoxId": 9,
-    "resourceQuantity": 100,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765577,7 +765577,7 @@
   },
   {
     "resourceBoxId": 10,
-    "resourceQuantity": 100,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765585,7 +765585,7 @@
   },
   {
     "resourceBoxId": 11,
-    "resourceQuantity": 100,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765593,7 +765593,7 @@
   },
   {
     "resourceBoxId": 12,
-    "resourceQuantity": 10000,
+    "resourceQuantity": 300000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765601,7 +765601,7 @@
   },
   {
     "resourceBoxId": 13,
-    "resourceQuantity": 20,
+    "resourceQuantity": 500,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765609,7 +765609,7 @@
   },
   {
     "resourceBoxId": 14,
-    "resourceQuantity": 20,
+    "resourceQuantity": 500,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765617,7 +765617,7 @@
   },
   {
     "resourceBoxId": 15,
-    "resourceQuantity": 20,
+    "resourceQuantity": 500,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765625,7 +765625,7 @@
   },
   {
     "resourceBoxId": 16,
-    "resourceQuantity": 20,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765633,7 +765633,7 @@
   },
   {
     "resourceBoxId": 17,
-    "resourceQuantity": 20,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765641,7 +765641,7 @@
   },
   {
     "resourceBoxId": 18,
-    "resourceQuantity": 20,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765649,7 +765649,7 @@
   },
   {
     "resourceBoxId": 19,
-    "resourceQuantity": 20,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765657,7 +765657,7 @@
   },
   {
     "resourceBoxId": 20,
-    "resourceQuantity": 5000,
+    "resourceQuantity": 100000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765665,7 +765665,7 @@
   },
   {
     "resourceBoxId": 21,
-    "resourceQuantity": 20,
+    "resourceQuantity": 300,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765673,7 +765673,7 @@
   },
   {
     "resourceBoxId": 22,
-    "resourceQuantity": 20,
+    "resourceQuantity": 300,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765681,7 +765681,7 @@
   },
   {
     "resourceBoxId": 23,
-    "resourceQuantity": 20,
+    "resourceQuantity": 300,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765689,7 +765689,7 @@
   },
   {
     "resourceBoxId": 24,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765697,7 +765697,7 @@
   },
   {
     "resourceBoxId": 25,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765705,7 +765705,7 @@
   },
   {
     "resourceBoxId": 26,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765713,7 +765713,7 @@
   },
   {
     "resourceBoxId": 27,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765721,7 +765721,7 @@
   },
   {
     "resourceBoxId": 28,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765729,7 +765729,7 @@
   },
   {
     "resourceBoxId": 29,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765737,7 +765737,7 @@
   },
   {
     "resourceBoxId": 30,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765745,7 +765745,7 @@
   },
   {
     "resourceBoxId": 31,
-    "resourceQuantity": 100,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765753,7 +765753,7 @@
   },
   {
     "resourceBoxId": 32,
-    "resourceQuantity": 50,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765761,7 +765761,7 @@
   },
   {
     "resourceBoxId": 33,
-    "resourceQuantity": 50,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765769,7 +765769,7 @@
   },
   {
     "resourceBoxId": 34,
-    "resourceQuantity": 50,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765777,7 +765777,7 @@
   },
   {
     "resourceBoxId": 35,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765785,7 +765785,7 @@
   },
   {
     "resourceBoxId": 36,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765793,7 +765793,7 @@
   },
   {
     "resourceBoxId": 37,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765801,7 +765801,7 @@
   },
   {
     "resourceBoxId": 38,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765809,7 +765809,7 @@
   },
   {
     "resourceBoxId": 39,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765817,7 +765817,7 @@
   },
   {
     "resourceBoxId": 40,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765825,7 +765825,7 @@
   },
   {
     "resourceBoxId": 41,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765833,7 +765833,7 @@
   },
   {
     "resourceBoxId": 42,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765841,7 +765841,7 @@
   },
   {
     "resourceBoxId": 43,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765849,7 +765849,7 @@
   },
   {
     "resourceBoxId": 44,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765857,7 +765857,7 @@
   },
   {
     "resourceBoxId": 45,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765865,7 +765865,7 @@
   },
   {
     "resourceBoxId": 46,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765873,7 +765873,7 @@
   },
   {
     "resourceBoxId": 47,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765881,7 +765881,7 @@
   },
   {
     "resourceBoxId": 48,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765889,7 +765889,7 @@
   },
   {
     "resourceBoxId": 49,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765897,7 +765897,7 @@
   },
   {
     "resourceBoxId": 50,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765905,7 +765905,7 @@
   },
   {
     "resourceBoxId": 51,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765913,7 +765913,7 @@
   },
   {
     "resourceBoxId": 52,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765921,7 +765921,7 @@
   },
   {
     "resourceBoxId": 53,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765929,7 +765929,7 @@
   },
   {
     "resourceBoxId": 54,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765937,7 +765937,7 @@
   },
   {
     "resourceBoxId": 55,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765945,7 +765945,7 @@
   },
   {
     "resourceBoxId": 56,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765953,7 +765953,7 @@
   },
   {
     "resourceBoxId": 57,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765961,7 +765961,7 @@
   },
   {
     "resourceBoxId": 58,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765969,7 +765969,7 @@
   },
   {
     "resourceBoxId": 59,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765977,7 +765977,7 @@
   },
   {
     "resourceBoxId": 60,
-    "resourceQuantity": 1000,
+    "resourceQuantity": 5000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -765985,7 +765985,7 @@
   },
   {
     "resourceBoxId": 61,
-    "resourceQuantity": 50,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766025,7 +766025,7 @@
   },
   {
     "resourceBoxId": 101,
-    "resourceQuantity": 280,
+    "resourceQuantity": 100,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766033,15 +766033,7 @@
   },
   {
     "resourceBoxId": 102,
-    "resourceQuantity": 720,
-    "resourceId": null,
-    "resourceBoxPurpose": "mysekai_recycle",
-    "resourceLevel": null,
-    "resourceType": "coin"
-  },
-  {
-    "resourceBoxId": 103,
-    "resourceQuantity": 1680,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766049,7 +766041,7 @@
   },
   {
     "resourceBoxId": 104,
-    "resourceQuantity": 8800,
+    "resourceQuantity": 2000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766057,7 +766049,7 @@
   },
   {
     "resourceBoxId": 105,
-    "resourceQuantity": 560,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766065,7 +766057,7 @@
   },
   {
     "resourceBoxId": 106,
-    "resourceQuantity": 280,
+    "resourceQuantity": 100,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766073,15 +766065,7 @@
   },
   {
     "resourceBoxId": 107,
-    "resourceQuantity": 720,
-    "resourceId": null,
-    "resourceBoxPurpose": "mysekai_recycle",
-    "resourceLevel": null,
-    "resourceType": "coin"
-  },
-  {
-    "resourceBoxId": 108,
-    "resourceQuantity": 1680,
+    "resourceQuantity": 1000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766089,7 +766073,7 @@
   },
   {
     "resourceBoxId": 109,
-    "resourceQuantity": 8800,
+    "resourceQuantity": 2000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,
@@ -766097,7 +766081,7 @@
   },
   {
     "resourceBoxId": 110,
-    "resourceQuantity": 560,
+    "resourceQuantity": 10000,
     "resourceId": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "resourceLevel": null,

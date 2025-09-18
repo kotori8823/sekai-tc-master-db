@@ -6919,6 +6919,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 90005,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 91000,
     "resourceBoxType": "expand"
   },
@@ -161612,13 +161619,6 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "mysekai_recycle",
     "name": null,
-    "id": 103,
-    "resourceBoxType": "expand"
-  },
-  {
-    "assetbundleName": null,
-    "resourceBoxPurpose": "mysekai_recycle",
-    "name": null,
     "id": 104,
     "resourceBoxType": "expand"
   },
@@ -161641,13 +161641,6 @@
     "resourceBoxPurpose": "mysekai_recycle",
     "name": null,
     "id": 107,
-    "resourceBoxType": "expand"
-  },
-  {
-    "assetbundleName": null,
-    "resourceBoxPurpose": "mysekai_recycle",
-    "name": null,
-    "id": 108,
     "resourceBoxType": "expand"
   },
   {
