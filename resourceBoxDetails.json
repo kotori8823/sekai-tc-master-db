@@ -589608,6 +589608,22 @@
     "resourceType": "jewel"
   },
   {
+    "resourceBoxId": 10078,
+    "resourceQuantity": 400,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 10079,
+    "resourceQuantity": 400,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,

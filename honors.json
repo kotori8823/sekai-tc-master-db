@@ -105160,7 +105160,7 @@
     "id": 20003,
     "seq": 2000004,
     "groupId": 20000,
-    "honorRarity": "high",
+    "honorRarity": "highest",
     "name": "第一期心願榜稱號「TOP10」",
     "assetbundleName": "honor_top_000010",
     "levels": [
@@ -105175,7 +105175,7 @@
     "id": 20004,
     "seq": 2000005,
     "groupId": 20000,
-    "honorRarity": "high",
+    "honorRarity": "highest",
     "name": "第一期心願榜稱號「TOP100」",
     "assetbundleName": "honor_top_000100",
     "levels": [
@@ -105190,9 +105190,9 @@
     "id": 20005,
     "seq": 2000006,
     "groupId": 20000,
-    "honorRarity": "middle",
+    "honorRarity": "high",
     "name": "第一期心願榜稱號「TOP1000」",
-    "assetbundleName": "honor_top_000500",
+    "assetbundleName": "honor_top_001000",
     "levels": [
       {
         "level": 1,
@@ -105227,7 +105227,7 @@
       {
         "level": 1,
         "bonus": 0,
-        "description": "TOP10001-20000"
+        "description": "TOP10001-50000"
       }
     ]
   },
