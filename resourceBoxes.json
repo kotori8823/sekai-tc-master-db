@@ -6744,6 +6744,34 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 30139,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30140,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30141,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30142,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 40001,
     "resourceBoxType": "expand"
   },
@@ -8509,6 +8537,48 @@
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "name": null,
     "id": 30134,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30135,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30136,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30137,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30138,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30139,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30140,
     "resourceBoxType": "expand"
   },
   {
@@ -72115,6 +72185,55 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400101,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400102,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400103,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400104,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400105,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400106,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "limit_mission_02",
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400107,
+    "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "event_ranking_reward",
     "name": null,
     "id": 1,
@@ -120913,7 +121032,7 @@
   {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
-    "name": "ハロウィンボックス",
+    "name": "萬聖節登入活動",
     "id": 141,
     "resourceBoxType": "list"
   },
@@ -122211,6 +122330,34 @@
     "name": "此為present 4 you登入活動的報酬",
     "id": 1157,
     "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[望月穗波]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1158,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[MEIKO]HAPPY ANNIVERSARY登入活動的報酬",
+    "id": 1159,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲[MIKU EXPO 2025 ASIA紀念]登入活動的報酬",
+    "id": 1160,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲[MIKU EXPO 2025 ASIA紀念]登入活動的報酬",
+    "id": 1161,
+    "resourceBoxType": "list"
   },
   {
     "assetbundleName": "gacha_cos0016_01",
@@ -158417,6 +158564,20 @@
     "resourceBoxType": "expand"
   },
   {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "水晶*400",
+    "id": 100401,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "心願碎片*35",
+    "id": 100402,
+    "resourceBoxType": "expand"
+  },
+  {
     "assetbundleName": "live_mission_1001",
     "resourceBoxPurpose": "mission_reward",
     "name": "BP新奖励（2月服装）",
@@ -180772,6 +180933,34 @@
     "resourceBoxPurpose": "shop_item",
     "name": null,
     "id": 100097,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100098,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100099,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100100,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100101,
     "resourceBoxType": "expand"
   },
   {
