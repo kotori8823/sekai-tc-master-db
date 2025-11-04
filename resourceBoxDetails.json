@@ -284824,6 +284824,30 @@
     "resourceType": "boost_item"
   },
   {
+    "resourceBoxId": 50034,
+    "resourceQuantity": 150,
+    "resourceId": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 50035,
+    "resourceQuantity": 1,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 50035,
+    "resourceQuantity": 5,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
     "resourceBoxId": 90001,
     "resourceQuantity": 1800,
     "resourceId": null,
@@ -598088,6 +598112,14 @@
     "resourceType": "material"
   },
   {
+    "resourceBoxId": 169,
+    "resourceQuantity": 1,
+    "resourceId": 24,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
     "resourceBoxId": 171,
     "resourceQuantity": 1,
     "resourceId": 26,
@@ -600339,6 +600371,22 @@
     "resourceBoxId": 1161,
     "resourceQuantity": 1,
     "resourceId": 10008,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "custom_profile_collection_resource"
+  },
+  {
+    "resourceBoxId": 1162,
+    "resourceQuantity": 1,
+    "resourceId": 3000,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 1162,
+    "resourceQuantity": 1,
+    "resourceId": 10012,
     "resourceBoxPurpose": "login_bonus",
     "resourceLevel": null,
     "resourceType": "custom_profile_collection_resource"

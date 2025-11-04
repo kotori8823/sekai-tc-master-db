@@ -7017,6 +7017,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 50034,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 50035,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -121226,6 +121240,13 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": null,
+    "id": 169,
+    "resourceBoxType": "expand"
+  },
+  {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
     "name": "女神異聞錄5 皇家版聯動紀念禮物箱",
@@ -122357,6 +122378,13 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "此爲[MIKU EXPO 2025 ASIA紀念]登入活動的報酬",
     "id": 1161,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[東雲彰人]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1162,
     "resourceBoxType": "list"
   },
   {
