@@ -6772,6 +6772,41 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 30143,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30144,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30145,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30146,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30147,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 40001,
     "resourceBoxType": "expand"
   },
@@ -116519,6 +116554,13 @@
     "resourceBoxPurpose": "gacha_extra",
     "name": null,
     "id": 48,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": null,
+    "id": 49,
     "resourceBoxType": "expand"
   },
   {

@@ -278944,6 +278944,54 @@
     "resourceType": "costume_3d"
   },
   {
+    "resourceBoxId": 30143,
+    "resourceQuantity": 100,
+    "resourceId": 15,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 30144,
+    "resourceQuantity": 15,
+    "resourceId": 1,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 30145,
+    "resourceQuantity": 1,
+    "resourceId": 57,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 30145,
+    "resourceQuantity": 10,
+    "resourceId": 17,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 30146,
+    "resourceQuantity": 2,
+    "resourceId": 2,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 30147,
+    "resourceQuantity": 1500,
+    "resourceId": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "virtual_coin"
+  },
+  {
     "resourceBoxId": 40001,
     "resourceQuantity": 300,
     "resourceId": null,
@@ -577414,6 +577462,54 @@
     "resourceBoxPurpose": "gacha_extra",
     "resourceLevel": null,
     "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 49,
+    "resourceQuantity": 1,
+    "resourceId": 105,
+    "resourceBoxPurpose": "gacha_extra",
+    "resourceLevel": null,
+    "resourceType": "avatar_coordinate"
+  },
+  {
+    "resourceBoxId": 49,
+    "resourceQuantity": 1,
+    "resourceId": 106,
+    "resourceBoxPurpose": "gacha_extra",
+    "resourceLevel": null,
+    "resourceType": "avatar_coordinate"
+  },
+  {
+    "resourceBoxId": 49,
+    "resourceQuantity": 1,
+    "resourceId": 107,
+    "resourceBoxPurpose": "gacha_extra",
+    "resourceLevel": null,
+    "resourceType": "avatar_coordinate"
+  },
+  {
+    "resourceBoxId": 49,
+    "resourceQuantity": 1,
+    "resourceId": 108,
+    "resourceBoxPurpose": "gacha_extra",
+    "resourceLevel": null,
+    "resourceType": "avatar_coordinate"
+  },
+  {
+    "resourceBoxId": 49,
+    "resourceQuantity": 1,
+    "resourceId": 109,
+    "resourceBoxPurpose": "gacha_extra",
+    "resourceLevel": null,
+    "resourceType": "avatar_coordinate"
+  },
+  {
+    "resourceBoxId": 49,
+    "resourceQuantity": 1,
+    "resourceId": 110,
+    "resourceBoxPurpose": "gacha_extra",
+    "resourceLevel": null,
+    "resourceType": "avatar_coordinate"
   },
   {
     "resourceBoxId": 54,
