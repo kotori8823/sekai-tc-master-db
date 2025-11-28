@@ -411680,6 +411680,182 @@
     "resourceType": "costume_3d"
   },
   {
+    "resourceBoxId": 400108,
+    "resourceQuantity": 500,
+    "resourceId": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 400109,
+    "resourceQuantity": 420,
+    "resourceId": 15,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 400110,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 400111,
+    "resourceQuantity": 6,
+    "resourceId": 2,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 400112,
+    "resourceQuantity": 80,
+    "resourceId": 2,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 400113,
+    "resourceQuantity": 500,
+    "resourceId": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "live_point"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920001,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920002,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920003,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920004,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920005,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920006,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920007,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 920008,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921001,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921002,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921003,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921004,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921005,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921006,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921007,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400114,
+    "resourceQuantity": 1,
+    "resourceId": 921008,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
     "resourceBoxId": 1,
     "resourceQuantity": 3000,
     "resourceId": null,
@@ -593400,6 +593576,14 @@
     "resourceType": "jewel"
   },
   {
+    "resourceBoxId": 10080,
+    "resourceQuantity": 3,
+    "resourceId": 1012,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,
@@ -597832,6 +598016,14 @@
     "resourceType": "material"
   },
   {
+    "resourceBoxId": 142,
+    "resourceQuantity": 300,
+    "resourceId": null,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
     "resourceBoxId": 143,
     "resourceQuantity": 1,
     "resourceId": 2,
@@ -600483,6 +600675,22 @@
     "resourceBoxId": 1162,
     "resourceQuantity": 1,
     "resourceId": 10012,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "custom_profile_collection_resource"
+  },
+  {
+    "resourceBoxId": 1163,
+    "resourceQuantity": 1,
+    "resourceId": 3000,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 1163,
+    "resourceQuantity": 1,
+    "resourceId": 10013,
     "resourceBoxPurpose": "login_bonus",
     "resourceLevel": null,
     "resourceType": "custom_profile_collection_resource"
@@ -761072,6 +761280,30 @@
     "resourceType": "material"
   },
   {
+    "resourceBoxId": 100403,
+    "resourceQuantity": 5,
+    "resourceId": 17,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 100404,
+    "resourceQuantity": 2,
+    "resourceId": 3022,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 100404,
+    "resourceQuantity": 2,
+    "resourceId": 3023,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
     "resourceBoxId": 110001,
     "resourceQuantity": 1,
     "resourceId": 157161,
@@ -798606,6 +798838,14 @@
     "resourceBoxPurpose": "shop_item",
     "resourceLevel": null,
     "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100102,
+    "resourceQuantity": 1,
+    "resourceId": 694,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "music"
   },
   {
     "resourceBoxId": 1,
