@@ -7808,6 +7808,83 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "name": null,
+    "id": 75,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 76,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 77,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 78,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 79,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 80,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 81,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 82,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 83,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 84,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 85,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
     "id": 1000,
     "resourceBoxType": "expand"
   },
@@ -67915,6 +67992,55 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "compensation",
+    "name": null,
+    "id": 53,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "compensation",
+    "name": null,
+    "id": 54,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "compensation",
+    "name": null,
+    "id": 55,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "compensation",
+    "name": null,
+    "id": 56,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "compensation",
+    "name": null,
+    "id": 57,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "compensation",
+    "name": null,
+    "id": 58,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "compensation",
+    "name": null,
+    "id": 59,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "connect_live_reward",
     "name": null,
     "id": 1,
@@ -122528,6 +122654,20 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "一元復始登入活動",
+    "id": 1164,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[鏡音鈴·鏡音連]HAPPY ANNIVERSARY登入活動的報酬",
+    "id": 1165,
+    "resourceBoxType": "list"
+  },
+  {
     "assetbundleName": "gacha_cos0016_01",
     "resourceBoxPurpose": "master_lesson_reward",
     "name": "閃耀樂音[異色1]",
@@ -152070,28 +152210,28 @@
   {
     "assetbundleName": "live_mission_034",
     "resourceBoxPurpose": "mission_reward",
-    "name": "夏天的服裝",
+    "name": "夏裝",
     "id": 1450,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_034_01",
     "resourceBoxPurpose": "mission_reward",
-    "name": "夏天的服裝[異色1]",
+    "name": "夏裝[異色1]",
     "id": 1451,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_034_02",
     "resourceBoxPurpose": "mission_reward",
-    "name": "夏天的服裝[異色2]",
+    "name": "夏裝[異色2]",
     "id": 1452,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_034_03",
     "resourceBoxPurpose": "mission_reward",
-    "name": "夏天的服裝[異色3]",
+    "name": "夏裝[異色3]",
     "id": 1453,
     "resourceBoxType": "costume_3d"
   },
@@ -152280,56 +152420,56 @@
   {
     "assetbundleName": "live_mission_037",
     "resourceBoxPurpose": "mission_reward",
-    "name": "秋天的服裝",
+    "name": "秋裝",
     "id": 1480,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_037_01",
     "resourceBoxPurpose": "mission_reward",
-    "name": "秋天的服裝[異色1]",
+    "name": "秋裝[異色1]",
     "id": 1481,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_037_02",
     "resourceBoxPurpose": "mission_reward",
-    "name": "秋天的服裝[異色2]",
+    "name": "秋裝[異色2]",
     "id": 1482,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_037_03",
     "resourceBoxPurpose": "mission_reward",
-    "name": "秋天的服裝[異色3]",
+    "name": "秋裝[異色3]",
     "id": 1483,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_038",
     "resourceBoxPurpose": "mission_reward",
-    "name": "華麗的服裝",
+    "name": "華麗",
     "id": 1484,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_038_01",
     "resourceBoxPurpose": "mission_reward",
-    "name": "華麗的服裝[異色1]",
+    "name": "華麗[異色1]",
     "id": 1485,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_038_02",
     "resourceBoxPurpose": "mission_reward",
-    "name": "華麗的服裝[異色2]",
+    "name": "華麗[異色2]",
     "id": 1486,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": "live_mission_038_03",
     "resourceBoxPurpose": "mission_reward",
-    "name": "華麗的服裝[異色3]",
+    "name": "華麗[異色3]",
     "id": 1487,
     "resourceBoxType": "costume_3d"
   },
@@ -154142,42 +154282,42 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.1] ミク/咲希/遥/杏/司/瑞希の設計図（S）",
+    "name": "[限定風格 vol.1] 初音未來/咲希/遙/杏/司/瑞希的設計圖（S）",
     "id": 1757,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.1] ミク/咲希/遥/杏/司/瑞希の設計図（M）",
+    "name": "[限定風格 vol.1] 初音未來/咲希/遙/杏/司/瑞希的設計圖（M）",
     "id": 1758,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.1] ミク/咲希/遥/杏/司/瑞希の設計図（L）",
+    "name": "[限定風格 vol.1] 初音未來/咲希/遙/杏/司/瑞希的設計圖（L）",
     "id": 1759,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.1] リン/MEIKO/一歌/愛莉/こはね/類/奏の設計図（S）",
+    "name": "[限定風格 vol.1] 鏡音鈴/MEIKO/一歌/愛莉/心羽/類/奏的設計圖（S）",
     "id": 1764,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.1] リン/MEIKO/一歌/愛莉/こはね/類の設計図（M）",
+    "name": "[限定風格 vol.1] 鏡音鈴/MEIKO/一歌/愛莉/心羽/類/奏的設計圖（M）",
     "id": 1765,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.1] リン/MEIKO/一歌/愛莉/こはね/類の設計図（L）",
+    "name": "[限定風格 vol.1] 鏡音鈴/MEIKO/一歌/愛莉/心羽/類/奏的設計圖（L）",
     "id": 1766,
     "resourceBoxType": "expand"
   },
@@ -158601,7 +158741,7 @@
   {
     "assetbundleName": "limit_mission_02",
     "resourceBoxPurpose": "mission_reward",
-    "name": "Happy Anniversary Meiko 2022",
+    "name": "Happy Anniversary MEIKO 2022",
     "id": 100312,
     "resourceBoxType": "costume_3d"
   },
@@ -158699,7 +158839,7 @@
   {
     "assetbundleName": "limit_mission_05",
     "resourceBoxPurpose": "mission_reward",
-    "name": "Happy Anniversary Kaito 2023",
+    "name": "Happy Anniversary KAITO 2023",
     "id": 100326,
     "resourceBoxType": "costume_3d"
   },
@@ -181150,6 +181290,34 @@
     "resourceBoxPurpose": "shop_item",
     "name": null,
     "id": 100102,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100103,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100104,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100105,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 100106,
     "resourceBoxType": "expand"
   },
   {
