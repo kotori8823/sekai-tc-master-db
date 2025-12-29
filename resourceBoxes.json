@@ -7101,6 +7101,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 50038,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 50039,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -8740,6 +8754,27 @@
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "name": null,
     "id": 30140,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30141,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30142,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30143,
     "resourceBoxType": "expand"
   },
   {
@@ -122668,6 +122703,27 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[日野森志步]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1166,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[朝比奈真冬]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1167,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[巡音流歌]HAPPY ANNIVERSARY登入活動的報酬",
+    "id": 1168,
+    "resourceBoxType": "list"
+  },
+  {
     "assetbundleName": "gacha_cos0016_01",
     "resourceBoxPurpose": "master_lesson_reward",
     "name": "閃耀樂音[異色1]",
@@ -195241,6 +195297,13 @@
     "resourceBoxPurpose": "virtual_shop_item",
     "name": "ES偶像服裝",
     "id": 395,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "virtual_shop_item",
+    "name": "[フルセット]馬的玩偶裝",
+    "id": 408,
     "resourceBoxType": "expand"
   },
   {
