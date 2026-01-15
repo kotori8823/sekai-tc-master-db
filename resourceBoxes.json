@@ -72528,6 +72528,55 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400115,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400116,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400117,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400118,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400119,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400120,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "limit_mission_00",
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400121,
+    "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "event_ranking_reward",
     "name": null,
     "id": 1,
@@ -122724,6 +122773,13 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[世界計畫×maimai DX×CHUNITHM]聯動紀念登入活動的報酬",
+    "id": 1180,
+    "resourceBoxType": "list"
+  },
+  {
     "assetbundleName": "gacha_cos0016_01",
     "resourceBoxPurpose": "master_lesson_reward",
     "name": "閃耀樂音[異色1]",
@@ -158953,6 +159009,27 @@
     "resourceBoxPurpose": "mission_reward",
     "name": "香蕉果汁（體力道具）×2\n橘子果汁（體力道具）×2",
     "id": 100404,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "LIVE BONUS飲料（大）x1",
+    "id": 100405,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "mission_reward",
+    "name": "maimai DX | CHUNITHM聯動紀念任務報酬",
+    "id": 100406,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "練習譜（中级）×3",
+    "id": 100407,
     "resourceBoxType": "expand"
   },
   {

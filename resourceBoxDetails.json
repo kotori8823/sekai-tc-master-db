@@ -417264,6 +417264,118 @@
     "resourceType": "costume_3d"
   },
   {
+    "resourceBoxId": 400115,
+    "resourceQuantity": 500,
+    "resourceId": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 400116,
+    "resourceQuantity": 420,
+    "resourceId": 15,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 400117,
+    "resourceQuantity": 5,
+    "resourceId": 2,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 400118,
+    "resourceQuantity": 6,
+    "resourceId": 2,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "skill_practice_ticket"
+  },
+  {
+    "resourceBoxId": 400119,
+    "resourceQuantity": 80,
+    "resourceId": 2,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 400120,
+    "resourceQuantity": 500,
+    "resourceId": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "live_point"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924001,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924002,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924003,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924004,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924005,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924006,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924007,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400121,
+    "resourceQuantity": 1,
+    "resourceId": 924008,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
     "resourceBoxId": 1,
     "resourceQuantity": 3000,
     "resourceId": null,
@@ -606192,6 +606304,38 @@
     "resourceType": "custom_profile_collection_resource"
   },
   {
+    "resourceBoxId": 1180,
+    "resourceQuantity": 1,
+    "resourceId": 100000,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "resourceBoxId": 1180,
+    "resourceQuantity": 1,
+    "resourceId": 100001,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "mysekai_fixture"
+  },
+  {
+    "resourceBoxId": 1180,
+    "resourceQuantity": 300,
+    "resourceId": null,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 1180,
+    "resourceQuantity": 10,
+    "resourceId": 13,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
     "resourceBoxId": 1,
     "resourceQuantity": 1,
     "resourceId": 29004,
@@ -766798,6 +766942,78 @@
     "resourceBoxPurpose": "mission_reward",
     "resourceLevel": null,
     "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 100405,
+    "resourceQuantity": 1,
+    "resourceId": 2,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 100406,
+    "resourceQuantity": 1,
+    "resourceId": 10079,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100406,
+    "resourceQuantity": 1,
+    "resourceId": 10080,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100406,
+    "resourceQuantity": 1,
+    "resourceId": 10081,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100406,
+    "resourceQuantity": 1,
+    "resourceId": 10082,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100406,
+    "resourceQuantity": 1,
+    "resourceId": 10083,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100406,
+    "resourceQuantity": 1,
+    "resourceId": 10084,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100406,
+    "resourceQuantity": 1,
+    "resourceId": 20050,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": 1,
+    "resourceType": "honor"
+  },
+  {
+    "resourceBoxId": 100407,
+    "resourceQuantity": 3,
+    "resourceId": 2,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
   },
   {
     "resourceBoxId": 110001,
