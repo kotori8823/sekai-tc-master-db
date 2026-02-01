@@ -5794,6 +5794,7 @@
     "assetbundleName": "shop_40004",
     "resourceBoxId": 30044,
     "startAt": 1695088800000,
+    "endAt": 1769918399000,
     "purchaseOption": "exchange"
   },
   {
@@ -6779,7 +6780,6 @@
     "assetbundleName": "shop_30110",
     "resourceBoxId": 30110,
     "startAt": 1748577600000,
-    "endAt": 1769918399000,
     "purchaseOption": "exchange"
   },
   {
@@ -7902,20 +7902,6 @@
     "purchaseOption": "exchange"
   },
   {
-    "id": 30186,
-    "seq": 300640,
-    "billingShopItemType": "costume_3d",
-    "name": "童話故事主題服裝",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_30173",
-    "resourceBoxId": 30110,
-    "startAt": 1769918400000,
-    "endAt": 1770436799000,
-    "purchaseOption": "exchange"
-  },
-  {
     "id": 30187,
     "seq": 300641,
     "billingShopItemType": "costume_3d",
@@ -8011,19 +7997,6 @@
     "purchaseOption": "exchange"
   },
   {
-    "id": 30194,
-    "seq": 300632,
-    "billingShopItemType": "costume_3d",
-    "name": "童話故事主題服裝",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_30110",
-    "resourceBoxId": 30110,
-    "startAt": 1770436800000,
-    "purchaseOption": "exchange"
-  },
-  {
     "id": 30195,
     "seq": 10173,
     "billingShopItemType": "value_set",
@@ -8035,6 +8008,20 @@
     "resourceBoxId": 30487,
     "startAt": 1770566400000,
     "endAt": 1771775999000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 30196,
+    "seq": 300640,
+    "billingShopItemType": "costume_3d",
+    "name": "童話主題服裝",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30173",
+    "resourceBoxId": 30488,
+    "startAt": 1769918400000,
+    "endAt": 1770436799000,
     "purchaseOption": "exchange"
   },
   {

@@ -6947,6 +6947,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 30488,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 40001,
     "resourceBoxType": "expand"
   },
