@@ -6954,6 +6954,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 30816,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 40001,
     "resourceBoxType": "expand"
   },
@@ -72766,6 +72773,55 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400122,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400123,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400124,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400125,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400126,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400127,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "limit_mission_00",
+    "resourceBoxPurpose": "event_mission_selectable_reward",
+    "name": null,
+    "id": 400128,
+    "resourceBoxType": "costume_3d"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "event_ranking_reward",
     "name": null,
     "id": 1,
@@ -118969,7 +119025,7 @@
     "resourceBoxPurpose": "gacha_extra",
     "name": null,
     "id": 202605,
-    "resourceBoxType": "costume_3d"
+    "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
@@ -122363,6 +122419,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gift_detail",
     "name": null,
+    "id": 10081,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
     "id": 9999999,
     "resourceBoxType": "expand"
   },
@@ -124849,6 +124912,76 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "此為[宵崎奏]HAPPY BIRTHDAY登入活動的報酬",
     "id": 1181,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[KAITO]HAPPY ANNIVERSARY登入活動的報酬",
+    "id": 1182,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲應援！新春的世界2026登入活動第1天的報酬",
+    "id": 1183,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲應援！新春的世界2026登入活動第2天的報酬",
+    "id": 1184,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲應援！新春的世界2026登入活動第3天的報酬",
+    "id": 1185,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲應援！新春的世界2026登入活動第4天的報酬",
+    "id": 1186,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲應援！新春的世界2026登入活動第5天的報酬",
+    "id": 1187,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲應援！新春的世界2026登入活動第6天的報酬",
+    "id": 1188,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此爲應援！新春的世界2026登入活動第7天的報酬",
+    "id": 1189,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[桃井愛莉]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1190,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[小豆澤心羽]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1191,
     "resourceBoxType": "list"
   },
   {
@@ -180548,6 +180681,34 @@
     "resourceBoxPurpose": "shop_item",
     "name": null,
     "id": 11029,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11030,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11031,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11032,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11033,
     "resourceBoxType": "expand"
   },
   {

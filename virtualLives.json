@@ -267108,8 +267108,8 @@
     "name": "跨年倒數2026 LIVE",
     "assetbundleName": "vlentrance_00346",
     "screenMvMusicVocalId": 671,
-    "startAt": 1767164400000,
-    "endAt": 1767423599000,
+    "startAt": 1771225200000,
+    "endAt": 1771484399000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -267198,384 +267198,384 @@
         "id": 4751,
         "virtualLiveId": 346,
         "seq": 1,
-        "startAt": 1767196245000,
-        "endAt": 1767197107000,
+        "startAt": 1771257045000,
+        "endAt": 1771257907000,
         "isAfterEvent": false
       },
       {
         "id": 4752,
         "virtualLiveId": 346,
         "seq": 2,
-        "startAt": 1767200400000,
-        "endAt": 1767201262000,
+        "startAt": 1771261200000,
+        "endAt": 1771262062000,
         "isAfterEvent": false
       },
       {
         "id": 4753,
         "virtualLiveId": 346,
         "seq": 3,
-        "startAt": 1767204000000,
-        "endAt": 1767204862000,
+        "startAt": 1771264800000,
+        "endAt": 1771265662000,
         "isAfterEvent": false
       },
       {
         "id": 4754,
         "virtualLiveId": 346,
         "seq": 4,
-        "startAt": 1767207600000,
-        "endAt": 1767208462000,
+        "startAt": 1771268400000,
+        "endAt": 1771269262000,
         "isAfterEvent": false
       },
       {
         "id": 4755,
         "virtualLiveId": 346,
         "seq": 5,
-        "startAt": 1767211200000,
-        "endAt": 1767212062000,
+        "startAt": 1771272000000,
+        "endAt": 1771272862000,
         "isAfterEvent": false
       },
       {
         "id": 4756,
         "virtualLiveId": 346,
         "seq": 6,
-        "startAt": 1767214800000,
-        "endAt": 1767215662000,
+        "startAt": 1771275600000,
+        "endAt": 1771276462000,
         "isAfterEvent": false
       },
       {
         "id": 4757,
         "virtualLiveId": 346,
         "seq": 7,
-        "startAt": 1767218400000,
-        "endAt": 1767219262000,
+        "startAt": 1771279200000,
+        "endAt": 1771280062000,
         "isAfterEvent": false
       },
       {
         "id": 4758,
         "virtualLiveId": 346,
         "seq": 8,
-        "startAt": 1767222000000,
-        "endAt": 1767222862000,
+        "startAt": 1771282800000,
+        "endAt": 1771283662000,
         "isAfterEvent": false
       },
       {
         "id": 4759,
         "virtualLiveId": 346,
         "seq": 9,
-        "startAt": 1767225600000,
-        "endAt": 1767226462000,
+        "startAt": 1771286400000,
+        "endAt": 1771287262000,
         "isAfterEvent": false
       },
       {
         "id": 4760,
         "virtualLiveId": 346,
         "seq": 10,
-        "startAt": 1767229200000,
-        "endAt": 1767230062000,
+        "startAt": 1771290000000,
+        "endAt": 1771290862000,
         "isAfterEvent": false
       },
       {
         "id": 4761,
         "virtualLiveId": 346,
         "seq": 11,
-        "startAt": 1767232800000,
-        "endAt": 1767233662000,
+        "startAt": 1771293600000,
+        "endAt": 1771294462000,
         "isAfterEvent": false
       },
       {
         "id": 4762,
         "virtualLiveId": 346,
         "seq": 12,
-        "startAt": 1767236400000,
-        "endAt": 1767237262000,
+        "startAt": 1771297200000,
+        "endAt": 1771298062000,
         "isAfterEvent": false
       },
       {
         "id": 4763,
         "virtualLiveId": 346,
         "seq": 13,
-        "startAt": 1767240000000,
-        "endAt": 1767240862000,
+        "startAt": 1771300800000,
+        "endAt": 1771301662000,
         "isAfterEvent": false
       },
       {
         "id": 4764,
         "virtualLiveId": 346,
         "seq": 14,
-        "startAt": 1767243600000,
-        "endAt": 1767244462000,
+        "startAt": 1771304400000,
+        "endAt": 1771305262000,
         "isAfterEvent": false
       },
       {
         "id": 4765,
         "virtualLiveId": 346,
         "seq": 15,
-        "startAt": 1767247200000,
-        "endAt": 1767248062000,
+        "startAt": 1771308000000,
+        "endAt": 1771308862000,
         "isAfterEvent": false
       },
       {
         "id": 4766,
         "virtualLiveId": 346,
         "seq": 16,
-        "startAt": 1767250800000,
-        "endAt": 1767251662000,
+        "startAt": 1771311600000,
+        "endAt": 1771312462000,
         "isAfterEvent": false
       },
       {
         "id": 4767,
         "virtualLiveId": 346,
         "seq": 17,
-        "startAt": 1767254400000,
-        "endAt": 1767255262000,
+        "startAt": 1771315200000,
+        "endAt": 1771316062000,
         "isAfterEvent": false
       },
       {
         "id": 4768,
         "virtualLiveId": 346,
         "seq": 18,
-        "startAt": 1767258000000,
-        "endAt": 1767258862000,
+        "startAt": 1771318800000,
+        "endAt": 1771319662000,
         "isAfterEvent": false
       },
       {
         "id": 4769,
         "virtualLiveId": 346,
         "seq": 19,
-        "startAt": 1767261600000,
-        "endAt": 1767262462000,
+        "startAt": 1771322400000,
+        "endAt": 1771323262000,
         "isAfterEvent": false
       },
       {
         "id": 4770,
         "virtualLiveId": 346,
         "seq": 20,
-        "startAt": 1767265200000,
-        "endAt": 1767266062000,
+        "startAt": 1771326000000,
+        "endAt": 1771326862000,
         "isAfterEvent": false
       },
       {
         "id": 4771,
         "virtualLiveId": 346,
         "seq": 21,
-        "startAt": 1767268800000,
-        "endAt": 1767269662000,
+        "startAt": 1771329600000,
+        "endAt": 1771330462000,
         "isAfterEvent": false
       },
       {
         "id": 4772,
         "virtualLiveId": 346,
         "seq": 22,
-        "startAt": 1767272400000,
-        "endAt": 1767273262000,
+        "startAt": 1771333200000,
+        "endAt": 1771334062000,
         "isAfterEvent": false
       },
       {
         "id": 4773,
         "virtualLiveId": 346,
         "seq": 23,
-        "startAt": 1767276000000,
-        "endAt": 1767276862000,
+        "startAt": 1771336800000,
+        "endAt": 1771337662000,
         "isAfterEvent": false
       },
       {
         "id": 4774,
         "virtualLiveId": 346,
         "seq": 24,
-        "startAt": 1767279600000,
-        "endAt": 1767280462000,
+        "startAt": 1771340400000,
+        "endAt": 1771341262000,
         "isAfterEvent": false
       },
       {
         "id": 4775,
         "virtualLiveId": 346,
         "seq": 25,
-        "startAt": 1767283200000,
-        "endAt": 1767284062000,
+        "startAt": 1771344000000,
+        "endAt": 1771344862000,
         "isAfterEvent": false
       },
       {
         "id": 4776,
         "virtualLiveId": 346,
         "seq": 26,
-        "startAt": 1767286800000,
-        "endAt": 1767287662000,
+        "startAt": 1771347600000,
+        "endAt": 1771348462000,
         "isAfterEvent": false
       },
       {
         "id": 4777,
         "virtualLiveId": 346,
         "seq": 27,
-        "startAt": 1767290400000,
-        "endAt": 1767291262000,
+        "startAt": 1771351200000,
+        "endAt": 1771352062000,
         "isAfterEvent": false
       },
       {
         "id": 4778,
         "virtualLiveId": 346,
         "seq": 28,
-        "startAt": 1767294000000,
-        "endAt": 1767294862000,
+        "startAt": 1771354800000,
+        "endAt": 1771355662000,
         "isAfterEvent": false
       },
       {
         "id": 4779,
         "virtualLiveId": 346,
         "seq": 29,
-        "startAt": 1767297600000,
-        "endAt": 1767298462000,
+        "startAt": 1771358400000,
+        "endAt": 1771359262000,
         "isAfterEvent": false
       },
       {
         "id": 4780,
         "virtualLiveId": 346,
         "seq": 30,
-        "startAt": 1767301200000,
-        "endAt": 1767302062000,
+        "startAt": 1771362000000,
+        "endAt": 1771362862000,
         "isAfterEvent": false
       },
       {
         "id": 4781,
         "virtualLiveId": 346,
         "seq": 31,
-        "startAt": 1767304800000,
-        "endAt": 1767305662000,
+        "startAt": 1771365600000,
+        "endAt": 1771366462000,
         "isAfterEvent": false
       },
       {
         "id": 4782,
         "virtualLiveId": 346,
         "seq": 32,
-        "startAt": 1767308400000,
-        "endAt": 1767309262000,
+        "startAt": 1771369200000,
+        "endAt": 1771370062000,
         "isAfterEvent": false
       },
       {
         "id": 4783,
         "virtualLiveId": 346,
         "seq": 33,
-        "startAt": 1767312000000,
-        "endAt": 1767312862000,
+        "startAt": 1771372800000,
+        "endAt": 1771373662000,
         "isAfterEvent": false
       },
       {
         "id": 4784,
         "virtualLiveId": 346,
         "seq": 34,
-        "startAt": 1767315600000,
-        "endAt": 1767316462000,
+        "startAt": 1771376400000,
+        "endAt": 1771377262000,
         "isAfterEvent": false
       },
       {
         "id": 4785,
         "virtualLiveId": 346,
         "seq": 35,
-        "startAt": 1767319200000,
-        "endAt": 1767320062000,
+        "startAt": 1771380000000,
+        "endAt": 1771380862000,
         "isAfterEvent": false
       },
       {
         "id": 4786,
         "virtualLiveId": 346,
         "seq": 36,
-        "startAt": 1767322800000,
-        "endAt": 1767323662000,
+        "startAt": 1771383600000,
+        "endAt": 1771384462000,
         "isAfterEvent": false
       },
       {
         "id": 4787,
         "virtualLiveId": 346,
         "seq": 37,
-        "startAt": 1767326400000,
-        "endAt": 1767327262000,
+        "startAt": 1771387200000,
+        "endAt": 1771388062000,
         "isAfterEvent": false
       },
       {
         "id": 4788,
         "virtualLiveId": 346,
         "seq": 38,
-        "startAt": 1767330000000,
-        "endAt": 1767330862000,
+        "startAt": 1771390800000,
+        "endAt": 1771391662000,
         "isAfterEvent": false
       },
       {
         "id": 4789,
         "virtualLiveId": 346,
         "seq": 39,
-        "startAt": 1767333600000,
-        "endAt": 1767334462000,
+        "startAt": 1771394400000,
+        "endAt": 1771395262000,
         "isAfterEvent": false
       },
       {
         "id": 4790,
         "virtualLiveId": 346,
         "seq": 40,
-        "startAt": 1767337200000,
-        "endAt": 1767338062000,
+        "startAt": 1771398000000,
+        "endAt": 1771398862000,
         "isAfterEvent": false
       },
       {
         "id": 4791,
         "virtualLiveId": 346,
         "seq": 41,
-        "startAt": 1767340800000,
-        "endAt": 1767341662000,
+        "startAt": 1771401600000,
+        "endAt": 1771402462000,
         "isAfterEvent": false
       },
       {
         "id": 4792,
         "virtualLiveId": 346,
         "seq": 42,
-        "startAt": 1767344400000,
-        "endAt": 1767345262000,
+        "startAt": 1771405200000,
+        "endAt": 1771406062000,
         "isAfterEvent": false
       },
       {
         "id": 4793,
         "virtualLiveId": 346,
         "seq": 43,
-        "startAt": 1767348000000,
-        "endAt": 1767348862000,
+        "startAt": 1771408800000,
+        "endAt": 1771409662000,
         "isAfterEvent": false
       },
       {
         "id": 4794,
         "virtualLiveId": 346,
         "seq": 44,
-        "startAt": 1767351600000,
-        "endAt": 1767352462000,
+        "startAt": 1771412400000,
+        "endAt": 1771413262000,
         "isAfterEvent": false
       },
       {
         "id": 4795,
         "virtualLiveId": 346,
         "seq": 45,
-        "startAt": 1767355200000,
-        "endAt": 1767356062000,
+        "startAt": 1771416000000,
+        "endAt": 1771416862000,
         "isAfterEvent": false
       },
       {
         "id": 4796,
         "virtualLiveId": 346,
         "seq": 46,
-        "startAt": 1767358800000,
-        "endAt": 1767359662000,
+        "startAt": 1771419600000,
+        "endAt": 1771420462000,
         "isAfterEvent": false
       },
       {
         "id": 4797,
         "virtualLiveId": 346,
         "seq": 47,
-        "startAt": 1767362400000,
-        "endAt": 1767363262000,
+        "startAt": 1771423200000,
+        "endAt": 1771424062000,
         "isAfterEvent": false
       },
       {
         "id": 4798,
         "virtualLiveId": 346,
         "seq": 48,
-        "startAt": 1767366000000,
-        "endAt": 1767366862000,
+        "startAt": 1771426800000,
+        "endAt": 1771427662000,
         "isAfterEvent": false
       }
     ],
@@ -267617,8 +267617,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 346,
-      "startAt": 1767164400000,
-      "endAt": 1767423599000
+      "startAt": 1771225200000,
+      "endAt": 1771484399000
     },
     "virtualItems": [
       {
@@ -268237,8 +268237,8 @@
     "name": "HAPPY NEW YEAR 2026 LIVE",
     "assetbundleName": "vlentrance_00347",
     "screenMvMusicVocalId": 388,
-    "startAt": 1767164400000,
-    "endAt": 1767509999000,
+    "startAt": 1771225200000,
+    "endAt": 1771570799000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -268385,568 +268385,568 @@
         "id": 4799,
         "virtualLiveId": 347,
         "seq": 1,
-        "startAt": 1767200400000,
-        "endAt": 1767201684000,
+        "startAt": 1771261200000,
+        "endAt": 1771262484000,
         "isAfterEvent": false
       },
       {
         "id": 4800,
         "virtualLiveId": 347,
         "seq": 2,
-        "startAt": 1767204000000,
-        "endAt": 1767205284000,
+        "startAt": 1771264800000,
+        "endAt": 1771266084000,
         "isAfterEvent": false
       },
       {
         "id": 4801,
         "virtualLiveId": 347,
         "seq": 3,
-        "startAt": 1767207600000,
-        "endAt": 1767208884000,
+        "startAt": 1771268400000,
+        "endAt": 1771269684000,
         "isAfterEvent": false
       },
       {
         "id": 4802,
         "virtualLiveId": 347,
         "seq": 4,
-        "startAt": 1767211200000,
-        "endAt": 1767212484000,
+        "startAt": 1771272000000,
+        "endAt": 1771273284000,
         "isAfterEvent": false
       },
       {
         "id": 4803,
         "virtualLiveId": 347,
         "seq": 5,
-        "startAt": 1767214800000,
-        "endAt": 1767216084000,
+        "startAt": 1771275600000,
+        "endAt": 1771276884000,
         "isAfterEvent": false
       },
       {
         "id": 4804,
         "virtualLiveId": 347,
         "seq": 6,
-        "startAt": 1767218400000,
-        "endAt": 1767219684000,
+        "startAt": 1771279200000,
+        "endAt": 1771280484000,
         "isAfterEvent": false
       },
       {
         "id": 4805,
         "virtualLiveId": 347,
         "seq": 7,
-        "startAt": 1767222000000,
-        "endAt": 1767223284000,
+        "startAt": 1771282800000,
+        "endAt": 1771284084000,
         "isAfterEvent": false
       },
       {
         "id": 4806,
         "virtualLiveId": 347,
         "seq": 8,
-        "startAt": 1767225600000,
-        "endAt": 1767226884000,
+        "startAt": 1771286400000,
+        "endAt": 1771287684000,
         "isAfterEvent": false
       },
       {
         "id": 4807,
         "virtualLiveId": 347,
         "seq": 9,
-        "startAt": 1767229200000,
-        "endAt": 1767230484000,
+        "startAt": 1771290000000,
+        "endAt": 1771291284000,
         "isAfterEvent": false
       },
       {
         "id": 4808,
         "virtualLiveId": 347,
         "seq": 10,
-        "startAt": 1767232800000,
-        "endAt": 1767234084000,
+        "startAt": 1771293600000,
+        "endAt": 1771294884000,
         "isAfterEvent": false
       },
       {
         "id": 4809,
         "virtualLiveId": 347,
         "seq": 11,
-        "startAt": 1767236400000,
-        "endAt": 1767237684000,
+        "startAt": 1771297200000,
+        "endAt": 1771298484000,
         "isAfterEvent": false
       },
       {
         "id": 4810,
         "virtualLiveId": 347,
         "seq": 12,
-        "startAt": 1767240000000,
-        "endAt": 1767241284000,
+        "startAt": 1771300800000,
+        "endAt": 1771302084000,
         "isAfterEvent": false
       },
       {
         "id": 4811,
         "virtualLiveId": 347,
         "seq": 13,
-        "startAt": 1767243600000,
-        "endAt": 1767244884000,
+        "startAt": 1771304400000,
+        "endAt": 1771305684000,
         "isAfterEvent": false
       },
       {
         "id": 4812,
         "virtualLiveId": 347,
         "seq": 14,
-        "startAt": 1767247200000,
-        "endAt": 1767248484000,
+        "startAt": 1771308000000,
+        "endAt": 1771309284000,
         "isAfterEvent": false
       },
       {
         "id": 4813,
         "virtualLiveId": 347,
         "seq": 15,
-        "startAt": 1767250800000,
-        "endAt": 1767252084000,
+        "startAt": 1771311600000,
+        "endAt": 1771312884000,
         "isAfterEvent": false
       },
       {
         "id": 4814,
         "virtualLiveId": 347,
         "seq": 16,
-        "startAt": 1767254400000,
-        "endAt": 1767255684000,
+        "startAt": 1771315200000,
+        "endAt": 1771316484000,
         "isAfterEvent": false
       },
       {
         "id": 4815,
         "virtualLiveId": 347,
         "seq": 17,
-        "startAt": 1767258000000,
-        "endAt": 1767259284000,
+        "startAt": 1771318800000,
+        "endAt": 1771320084000,
         "isAfterEvent": false
       },
       {
         "id": 4816,
         "virtualLiveId": 347,
         "seq": 18,
-        "startAt": 1767261600000,
-        "endAt": 1767262884000,
+        "startAt": 1771322400000,
+        "endAt": 1771323684000,
         "isAfterEvent": false
       },
       {
         "id": 4817,
         "virtualLiveId": 347,
         "seq": 19,
-        "startAt": 1767265200000,
-        "endAt": 1767266484000,
+        "startAt": 1771326000000,
+        "endAt": 1771327284000,
         "isAfterEvent": false
       },
       {
         "id": 4818,
         "virtualLiveId": 347,
         "seq": 20,
-        "startAt": 1767268800000,
-        "endAt": 1767270084000,
+        "startAt": 1771329600000,
+        "endAt": 1771330884000,
         "isAfterEvent": false
       },
       {
         "id": 4819,
         "virtualLiveId": 347,
         "seq": 21,
-        "startAt": 1767272400000,
-        "endAt": 1767273684000,
+        "startAt": 1771333200000,
+        "endAt": 1771334484000,
         "isAfterEvent": false
       },
       {
         "id": 4820,
         "virtualLiveId": 347,
         "seq": 22,
-        "startAt": 1767276000000,
-        "endAt": 1767277284000,
+        "startAt": 1771336800000,
+        "endAt": 1771338084000,
         "isAfterEvent": false
       },
       {
         "id": 4821,
         "virtualLiveId": 347,
         "seq": 23,
-        "startAt": 1767279600000,
-        "endAt": 1767280884000,
+        "startAt": 1771340400000,
+        "endAt": 1771341684000,
         "isAfterEvent": false
       },
       {
         "id": 4822,
         "virtualLiveId": 347,
         "seq": 24,
-        "startAt": 1767283200000,
-        "endAt": 1767284484000,
+        "startAt": 1771344000000,
+        "endAt": 1771345284000,
         "isAfterEvent": false
       },
       {
         "id": 4823,
         "virtualLiveId": 347,
         "seq": 25,
-        "startAt": 1767286800000,
-        "endAt": 1767288084000,
+        "startAt": 1771347600000,
+        "endAt": 1771348884000,
         "isAfterEvent": false
       },
       {
         "id": 4824,
         "virtualLiveId": 347,
         "seq": 26,
-        "startAt": 1767290400000,
-        "endAt": 1767291684000,
+        "startAt": 1771351200000,
+        "endAt": 1771352484000,
         "isAfterEvent": false
       },
       {
         "id": 4825,
         "virtualLiveId": 347,
         "seq": 27,
-        "startAt": 1767294000000,
-        "endAt": 1767295284000,
+        "startAt": 1771354800000,
+        "endAt": 1771356084000,
         "isAfterEvent": false
       },
       {
         "id": 4826,
         "virtualLiveId": 347,
         "seq": 28,
-        "startAt": 1767297600000,
-        "endAt": 1767298884000,
+        "startAt": 1771358400000,
+        "endAt": 1771359684000,
         "isAfterEvent": false
       },
       {
         "id": 4827,
         "virtualLiveId": 347,
         "seq": 29,
-        "startAt": 1767301200000,
-        "endAt": 1767302484000,
+        "startAt": 1771362000000,
+        "endAt": 1771363284000,
         "isAfterEvent": false
       },
       {
         "id": 4828,
         "virtualLiveId": 347,
         "seq": 30,
-        "startAt": 1767304800000,
-        "endAt": 1767306084000,
+        "startAt": 1771365600000,
+        "endAt": 1771366884000,
         "isAfterEvent": false
       },
       {
         "id": 4829,
         "virtualLiveId": 347,
         "seq": 31,
-        "startAt": 1767308400000,
-        "endAt": 1767309684000,
+        "startAt": 1771369200000,
+        "endAt": 1771370484000,
         "isAfterEvent": false
       },
       {
         "id": 4830,
         "virtualLiveId": 347,
         "seq": 32,
-        "startAt": 1767312000000,
-        "endAt": 1767313284000,
+        "startAt": 1771372800000,
+        "endAt": 1771374084000,
         "isAfterEvent": false
       },
       {
         "id": 4831,
         "virtualLiveId": 347,
         "seq": 33,
-        "startAt": 1767315600000,
-        "endAt": 1767316884000,
+        "startAt": 1771376400000,
+        "endAt": 1771377684000,
         "isAfterEvent": false
       },
       {
         "id": 4832,
         "virtualLiveId": 347,
         "seq": 34,
-        "startAt": 1767319200000,
-        "endAt": 1767320484000,
+        "startAt": 1771380000000,
+        "endAt": 1771381284000,
         "isAfterEvent": false
       },
       {
         "id": 4833,
         "virtualLiveId": 347,
         "seq": 35,
-        "startAt": 1767322800000,
-        "endAt": 1767324084000,
+        "startAt": 1771383600000,
+        "endAt": 1771384884000,
         "isAfterEvent": false
       },
       {
         "id": 4834,
         "virtualLiveId": 347,
         "seq": 36,
-        "startAt": 1767326400000,
-        "endAt": 1767327684000,
+        "startAt": 1771387200000,
+        "endAt": 1771388484000,
         "isAfterEvent": false
       },
       {
         "id": 4835,
         "virtualLiveId": 347,
         "seq": 37,
-        "startAt": 1767330000000,
-        "endAt": 1767331284000,
+        "startAt": 1771390800000,
+        "endAt": 1771392084000,
         "isAfterEvent": false
       },
       {
         "id": 4836,
         "virtualLiveId": 347,
         "seq": 38,
-        "startAt": 1767333600000,
-        "endAt": 1767334884000,
+        "startAt": 1771394400000,
+        "endAt": 1771395684000,
         "isAfterEvent": false
       },
       {
         "id": 4837,
         "virtualLiveId": 347,
         "seq": 39,
-        "startAt": 1767337200000,
-        "endAt": 1767338484000,
+        "startAt": 1771398000000,
+        "endAt": 1771399284000,
         "isAfterEvent": false
       },
       {
         "id": 4838,
         "virtualLiveId": 347,
         "seq": 40,
-        "startAt": 1767340800000,
-        "endAt": 1767342084000,
+        "startAt": 1771401600000,
+        "endAt": 1771402884000,
         "isAfterEvent": false
       },
       {
         "id": 4839,
         "virtualLiveId": 347,
         "seq": 41,
-        "startAt": 1767344400000,
-        "endAt": 1767345684000,
+        "startAt": 1771405200000,
+        "endAt": 1771406484000,
         "isAfterEvent": false
       },
       {
         "id": 4840,
         "virtualLiveId": 347,
         "seq": 42,
-        "startAt": 1767348000000,
-        "endAt": 1767349284000,
+        "startAt": 1771408800000,
+        "endAt": 1771410084000,
         "isAfterEvent": false
       },
       {
         "id": 4841,
         "virtualLiveId": 347,
         "seq": 43,
-        "startAt": 1767351600000,
-        "endAt": 1767352884000,
+        "startAt": 1771412400000,
+        "endAt": 1771413684000,
         "isAfterEvent": false
       },
       {
         "id": 4842,
         "virtualLiveId": 347,
         "seq": 44,
-        "startAt": 1767355200000,
-        "endAt": 1767356484000,
+        "startAt": 1771416000000,
+        "endAt": 1771417284000,
         "isAfterEvent": false
       },
       {
         "id": 4843,
         "virtualLiveId": 347,
         "seq": 45,
-        "startAt": 1767358800000,
-        "endAt": 1767360084000,
+        "startAt": 1771419600000,
+        "endAt": 1771420884000,
         "isAfterEvent": false
       },
       {
         "id": 4844,
         "virtualLiveId": 347,
         "seq": 46,
-        "startAt": 1767362400000,
-        "endAt": 1767363684000,
+        "startAt": 1771423200000,
+        "endAt": 1771424484000,
         "isAfterEvent": false
       },
       {
         "id": 4845,
         "virtualLiveId": 347,
         "seq": 47,
-        "startAt": 1767366000000,
-        "endAt": 1767367284000,
+        "startAt": 1771426800000,
+        "endAt": 1771428084000,
         "isAfterEvent": false
       },
       {
         "id": 4846,
         "virtualLiveId": 347,
         "seq": 48,
-        "startAt": 1767369600000,
-        "endAt": 1767370884000,
+        "startAt": 1771430400000,
+        "endAt": 1771431684000,
         "isAfterEvent": false
       },
       {
         "id": 4847,
         "virtualLiveId": 347,
         "seq": 49,
-        "startAt": 1767373200000,
-        "endAt": 1767374484000,
+        "startAt": 1771434000000,
+        "endAt": 1771435284000,
         "isAfterEvent": false
       },
       {
         "id": 4848,
         "virtualLiveId": 347,
         "seq": 50,
-        "startAt": 1767376800000,
-        "endAt": 1767378084000,
+        "startAt": 1771437600000,
+        "endAt": 1771438884000,
         "isAfterEvent": false
       },
       {
         "id": 4849,
         "virtualLiveId": 347,
         "seq": 51,
-        "startAt": 1767380400000,
-        "endAt": 1767381684000,
+        "startAt": 1771441200000,
+        "endAt": 1771442484000,
         "isAfterEvent": false
       },
       {
         "id": 4850,
         "virtualLiveId": 347,
         "seq": 52,
-        "startAt": 1767384000000,
-        "endAt": 1767385284000,
+        "startAt": 1771444800000,
+        "endAt": 1771446084000,
         "isAfterEvent": false
       },
       {
         "id": 4851,
         "virtualLiveId": 347,
         "seq": 53,
-        "startAt": 1767387600000,
-        "endAt": 1767388884000,
+        "startAt": 1771448400000,
+        "endAt": 1771449684000,
         "isAfterEvent": false
       },
       {
         "id": 4852,
         "virtualLiveId": 347,
         "seq": 54,
-        "startAt": 1767391200000,
-        "endAt": 1767392484000,
+        "startAt": 1771452000000,
+        "endAt": 1771453284000,
         "isAfterEvent": false
       },
       {
         "id": 4853,
         "virtualLiveId": 347,
         "seq": 55,
-        "startAt": 1767394800000,
-        "endAt": 1767396084000,
+        "startAt": 1771455600000,
+        "endAt": 1771456884000,
         "isAfterEvent": false
       },
       {
         "id": 4854,
         "virtualLiveId": 347,
         "seq": 56,
-        "startAt": 1767398400000,
-        "endAt": 1767399684000,
+        "startAt": 1771459200000,
+        "endAt": 1771460484000,
         "isAfterEvent": false
       },
       {
         "id": 4855,
         "virtualLiveId": 347,
         "seq": 57,
-        "startAt": 1767402000000,
-        "endAt": 1767403284000,
+        "startAt": 1771462800000,
+        "endAt": 1771464084000,
         "isAfterEvent": false
       },
       {
         "id": 4856,
         "virtualLiveId": 347,
         "seq": 58,
-        "startAt": 1767405600000,
-        "endAt": 1767406884000,
+        "startAt": 1771466400000,
+        "endAt": 1771467684000,
         "isAfterEvent": false
       },
       {
         "id": 4857,
         "virtualLiveId": 347,
         "seq": 59,
-        "startAt": 1767409200000,
-        "endAt": 1767410484000,
+        "startAt": 1771470000000,
+        "endAt": 1771471284000,
         "isAfterEvent": false
       },
       {
         "id": 4858,
         "virtualLiveId": 347,
         "seq": 60,
-        "startAt": 1767412800000,
-        "endAt": 1767414084000,
+        "startAt": 1771473600000,
+        "endAt": 1771474884000,
         "isAfterEvent": false
       },
       {
         "id": 4859,
         "virtualLiveId": 347,
         "seq": 61,
-        "startAt": 1767416400000,
-        "endAt": 1767417684000,
+        "startAt": 1771477200000,
+        "endAt": 1771478484000,
         "isAfterEvent": false
       },
       {
         "id": 4860,
         "virtualLiveId": 347,
         "seq": 62,
-        "startAt": 1767420000000,
-        "endAt": 1767421284000,
+        "startAt": 1771480800000,
+        "endAt": 1771482084000,
         "isAfterEvent": false
       },
       {
         "id": 4861,
         "virtualLiveId": 347,
         "seq": 63,
-        "startAt": 1767423600000,
-        "endAt": 1767424884000,
+        "startAt": 1771484400000,
+        "endAt": 1771485684000,
         "isAfterEvent": false
       },
       {
         "id": 4862,
         "virtualLiveId": 347,
         "seq": 64,
-        "startAt": 1767427200000,
-        "endAt": 1767428484000,
+        "startAt": 1771488000000,
+        "endAt": 1771489284000,
         "isAfterEvent": false
       },
       {
         "id": 4863,
         "virtualLiveId": 347,
         "seq": 65,
-        "startAt": 1767430800000,
-        "endAt": 1767432084000,
+        "startAt": 1771491600000,
+        "endAt": 1771492884000,
         "isAfterEvent": false
       },
       {
         "id": 4864,
         "virtualLiveId": 347,
         "seq": 66,
-        "startAt": 1767434400000,
-        "endAt": 1767435684000,
+        "startAt": 1771495200000,
+        "endAt": 1771496484000,
         "isAfterEvent": false
       },
       {
         "id": 4865,
         "virtualLiveId": 347,
         "seq": 67,
-        "startAt": 1767438000000,
-        "endAt": 1767439284000,
+        "startAt": 1771498800000,
+        "endAt": 1771500084000,
         "isAfterEvent": false
       },
       {
         "id": 4866,
         "virtualLiveId": 347,
         "seq": 68,
-        "startAt": 1767441600000,
-        "endAt": 1767442884000,
+        "startAt": 1771502400000,
+        "endAt": 1771503684000,
         "isAfterEvent": false
       },
       {
         "id": 4867,
         "virtualLiveId": 347,
         "seq": 69,
-        "startAt": 1767445200000,
-        "endAt": 1767446484000,
+        "startAt": 1771506000000,
+        "endAt": 1771507284000,
         "isAfterEvent": false
       },
       {
         "id": 4868,
         "virtualLiveId": 347,
         "seq": 70,
-        "startAt": 1767448800000,
-        "endAt": 1767450084000,
+        "startAt": 1771509600000,
+        "endAt": 1771510884000,
         "isAfterEvent": false
       },
       {
         "id": 4869,
         "virtualLiveId": 347,
         "seq": 71,
-        "startAt": 1767452400000,
-        "endAt": 1767453684000,
+        "startAt": 1771513200000,
+        "endAt": 1771514484000,
         "isAfterEvent": false
       }
     ],
@@ -269084,8 +269084,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 347,
-      "startAt": 1767164400000,
-      "endAt": 1767509999000
+      "startAt": 1771225200000,
+      "endAt": 1771570799000
     },
     "virtualItems": [
       {
