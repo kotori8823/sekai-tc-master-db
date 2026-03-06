@@ -5197,6 +5197,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 515,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 901,
     "resourceBoxType": "expand"
   },
@@ -7319,6 +7326,13 @@
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
     "id": 30816,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30817,
     "resourceBoxType": "expand"
   },
   {
@@ -131995,6 +132009,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gift_detail",
     "name": null,
+    "id": 1575,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
     "id": 10001,
     "resourceBoxType": "expand"
   },
@@ -133716,42 +133737,42 @@
   {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
-    "name": "もうすぐ4.5周年プレゼントボックス",
+    "name": "此為即將滿4.5週年！登入活動的報酬",
     "id": 159,
     "resourceBoxType": "list"
   },
   {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
-    "name": "もうすぐ4.5周年プレゼントボックス",
+    "name": "此為即將滿4.5週年！登入活動的報酬",
     "id": 160,
     "resourceBoxType": "list"
   },
   {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
-    "name": "もうすぐ4.5周年プレゼントボックス",
+    "name": "此為即將滿4.5週年！登入活動的報酬",
     "id": 161,
     "resourceBoxType": "list"
   },
   {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
-    "name": "4.5周年記念プレゼントボックス",
+    "name": "此為4.5週年紀念登入活動的報酬",
     "id": 162,
     "resourceBoxType": "list"
   },
   {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
-    "name": "4.5周年記念プレゼントボックス",
+    "name": "此為4.5週年紀念登入活動的報酬",
     "id": 163,
     "resourceBoxType": "list"
   },
   {
     "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "login_bonus",
-    "name": "4.5周年記念プレゼントボックス",
+    "name": "此為4.5週年紀念登入活動的報酬",
     "id": 164,
     "resourceBoxType": "list"
   },
@@ -134068,6 +134089,13 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "5周年記念YOUR MEMORIES GIFT",
     "id": 209,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為初音未來日紀念登入活動的報酬",
+    "id": 222,
     "resourceBoxType": "list"
   },
   {
@@ -135377,6 +135405,27 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "此為[小豆澤心羽]HAPPY BIRTHDAY登入活動的報酬",
     "id": 1191,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為即將滿4.5週年！登入活動的報酬",
+    "id": 1192,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為即將滿4.5週年！登入活動的報酬",
+    "id": 1193,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為即將滿4.5週年！登入活動的報酬",
+    "id": 1194,
     "resourceBoxType": "list"
   },
   {
