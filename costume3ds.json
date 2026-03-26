@@ -618762,7 +618762,7 @@
     "costume3dGroupId": 755016,
     "partType": "head",
     "colorId": 2,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至1。",
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至1。",
     "_assetbundleName": "cos0755_unique_head_01"
   },
   {
@@ -618771,7 +618771,7 @@
     "costume3dGroupId": 755016,
     "partType": "body",
     "colorId": 2,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至1。"
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至1。"
   },
   {
     "id": 755125,
@@ -618779,7 +618779,7 @@
     "costume3dGroupId": 755016,
     "partType": "head",
     "colorId": 3,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至3。",
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至3。",
     "_assetbundleName": "cos0755_unique_head_02"
   },
   {
@@ -618788,7 +618788,7 @@
     "costume3dGroupId": 755016,
     "partType": "body",
     "colorId": 3,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至3。"
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至3。"
   },
   {
     "id": 755127,
@@ -618796,7 +618796,7 @@
     "costume3dGroupId": 755016,
     "partType": "head",
     "colorId": 4,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至5。",
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至5。",
     "_assetbundleName": "cos0755_unique_head_03"
   },
   {
@@ -618805,7 +618805,7 @@
     "costume3dGroupId": 755016,
     "partType": "body",
     "colorId": 4,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至5。"
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至5。"
   },
   {
     "id": 755129,
@@ -619044,7 +619044,7 @@
     "costume3dGroupId": 755021,
     "partType": "head",
     "colorId": 2,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至1。"
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至1。"
   },
   {
     "id": 755163,
@@ -619052,7 +619052,7 @@
     "costume3dGroupId": 755021,
     "partType": "head",
     "colorId": 3,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至3。"
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至3。"
   },
   {
     "id": 755164,
@@ -619060,7 +619060,7 @@
     "costume3dGroupId": 755021,
     "partType": "head",
     "colorId": 4,
-    "howToObtain": "將「[由英雄傳給英雄] 天馬司」的專精等級提升至5。"
+    "howToObtain": "將「[甜甜圈和比YA！] 曉山瑞希」的專精等級提升至5。"
   },
   {
     "id": 756001,
@@ -792172,5 +792172,1669 @@
     "partType": "body",
     "colorId": 4,
     "_assetbundleName": "8016"
+  },
+  {
+    "id": 18017001,
+    "seq": 18017001,
+    "costume3dGroupId": 18017001,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017002,
+    "seq": 18017002,
+    "costume3dGroupId": 18017001,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017003,
+    "seq": 18017003,
+    "costume3dGroupId": 18017001,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017004,
+    "seq": 18017004,
+    "costume3dGroupId": 18017001,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017005,
+    "seq": 18017005,
+    "costume3dGroupId": 18017001,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017006,
+    "seq": 18017006,
+    "costume3dGroupId": 18017001,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017007,
+    "seq": 18017007,
+    "costume3dGroupId": 18017001,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017008,
+    "seq": 18017008,
+    "costume3dGroupId": 18017001,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017009,
+    "seq": 18017009,
+    "costume3dGroupId": 18017002,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017010,
+    "seq": 18017010,
+    "costume3dGroupId": 18017002,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017011,
+    "seq": 18017011,
+    "costume3dGroupId": 18017002,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017012,
+    "seq": 18017012,
+    "costume3dGroupId": 18017002,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017013,
+    "seq": 18017013,
+    "costume3dGroupId": 18017002,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017014,
+    "seq": 18017014,
+    "costume3dGroupId": 18017002,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017015,
+    "seq": 18017015,
+    "costume3dGroupId": 18017002,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017016,
+    "seq": 18017016,
+    "costume3dGroupId": 18017002,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017017,
+    "seq": 18017017,
+    "costume3dGroupId": 18017003,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017018,
+    "seq": 18017018,
+    "costume3dGroupId": 18017003,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017019,
+    "seq": 18017019,
+    "costume3dGroupId": 18017003,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017020,
+    "seq": 18017020,
+    "costume3dGroupId": 18017003,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017021,
+    "seq": 18017021,
+    "costume3dGroupId": 18017003,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017022,
+    "seq": 18017022,
+    "costume3dGroupId": 18017003,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017023,
+    "seq": 18017023,
+    "costume3dGroupId": 18017003,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017024,
+    "seq": 18017024,
+    "costume3dGroupId": 18017003,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017025,
+    "seq": 18017025,
+    "costume3dGroupId": 18017004,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017026,
+    "seq": 18017026,
+    "costume3dGroupId": 18017004,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017027,
+    "seq": 18017027,
+    "costume3dGroupId": 18017004,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017028,
+    "seq": 18017028,
+    "costume3dGroupId": 18017004,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017029,
+    "seq": 18017029,
+    "costume3dGroupId": 18017004,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017030,
+    "seq": 18017030,
+    "costume3dGroupId": 18017004,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017031,
+    "seq": 18017031,
+    "costume3dGroupId": 18017004,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017032,
+    "seq": 18017032,
+    "costume3dGroupId": 18017004,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017033,
+    "seq": 18017033,
+    "costume3dGroupId": 18017005,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017034,
+    "seq": 18017034,
+    "costume3dGroupId": 18017005,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017035,
+    "seq": 18017035,
+    "costume3dGroupId": 18017005,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017036,
+    "seq": 18017036,
+    "costume3dGroupId": 18017005,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017037,
+    "seq": 18017037,
+    "costume3dGroupId": 18017005,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017038,
+    "seq": 18017038,
+    "costume3dGroupId": 18017005,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017039,
+    "seq": 18017039,
+    "costume3dGroupId": 18017005,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017040,
+    "seq": 18017040,
+    "costume3dGroupId": 18017005,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017041,
+    "seq": 18017041,
+    "costume3dGroupId": 18017006,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017042,
+    "seq": 18017042,
+    "costume3dGroupId": 18017006,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017043,
+    "seq": 18017043,
+    "costume3dGroupId": 18017006,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017044,
+    "seq": 18017044,
+    "costume3dGroupId": 18017006,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017045,
+    "seq": 18017045,
+    "costume3dGroupId": 18017006,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017046,
+    "seq": 18017046,
+    "costume3dGroupId": 18017006,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017047,
+    "seq": 18017047,
+    "costume3dGroupId": 18017006,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017048,
+    "seq": 18017048,
+    "costume3dGroupId": 18017006,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017049,
+    "seq": 18017049,
+    "costume3dGroupId": 18017007,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017050,
+    "seq": 18017050,
+    "costume3dGroupId": 18017007,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017051,
+    "seq": 18017051,
+    "costume3dGroupId": 18017007,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017052,
+    "seq": 18017052,
+    "costume3dGroupId": 18017007,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017053,
+    "seq": 18017053,
+    "costume3dGroupId": 18017007,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017054,
+    "seq": 18017054,
+    "costume3dGroupId": 18017007,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017055,
+    "seq": 18017055,
+    "costume3dGroupId": 18017007,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017056,
+    "seq": 18017056,
+    "costume3dGroupId": 18017007,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017057,
+    "seq": 18017057,
+    "costume3dGroupId": 18017008,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017058,
+    "seq": 18017058,
+    "costume3dGroupId": 18017008,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017059,
+    "seq": 18017059,
+    "costume3dGroupId": 18017008,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017060,
+    "seq": 18017060,
+    "costume3dGroupId": 18017008,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017061,
+    "seq": 18017061,
+    "costume3dGroupId": 18017008,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017062,
+    "seq": 18017062,
+    "costume3dGroupId": 18017008,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017063,
+    "seq": 18017063,
+    "costume3dGroupId": 18017008,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017064,
+    "seq": 18017064,
+    "costume3dGroupId": 18017008,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017065,
+    "seq": 18017065,
+    "costume3dGroupId": 18017009,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017066,
+    "seq": 18017066,
+    "costume3dGroupId": 18017009,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017067,
+    "seq": 18017067,
+    "costume3dGroupId": 18017009,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017068,
+    "seq": 18017068,
+    "costume3dGroupId": 18017009,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017069,
+    "seq": 18017069,
+    "costume3dGroupId": 18017009,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017070,
+    "seq": 18017070,
+    "costume3dGroupId": 18017009,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017071,
+    "seq": 18017071,
+    "costume3dGroupId": 18017009,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017072,
+    "seq": 18017072,
+    "costume3dGroupId": 18017009,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017073,
+    "seq": 18017073,
+    "costume3dGroupId": 18017010,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017074,
+    "seq": 18017074,
+    "costume3dGroupId": 18017010,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017075,
+    "seq": 18017075,
+    "costume3dGroupId": 18017010,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017076,
+    "seq": 18017076,
+    "costume3dGroupId": 18017010,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017077,
+    "seq": 18017077,
+    "costume3dGroupId": 18017010,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017078,
+    "seq": 18017078,
+    "costume3dGroupId": 18017010,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017079,
+    "seq": 18017079,
+    "costume3dGroupId": 18017010,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017080,
+    "seq": 18017080,
+    "costume3dGroupId": 18017010,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017081,
+    "seq": 18017081,
+    "costume3dGroupId": 18017011,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017082,
+    "seq": 18017082,
+    "costume3dGroupId": 18017011,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017083,
+    "seq": 18017083,
+    "costume3dGroupId": 18017011,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017084,
+    "seq": 18017084,
+    "costume3dGroupId": 18017011,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017085,
+    "seq": 18017085,
+    "costume3dGroupId": 18017011,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017086,
+    "seq": 18017086,
+    "costume3dGroupId": 18017011,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017087,
+    "seq": 18017087,
+    "costume3dGroupId": 18017011,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017088,
+    "seq": 18017088,
+    "costume3dGroupId": 18017011,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017089,
+    "seq": 18017089,
+    "costume3dGroupId": 18017012,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017090,
+    "seq": 18017090,
+    "costume3dGroupId": 18017012,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017091,
+    "seq": 18017091,
+    "costume3dGroupId": 18017012,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017092,
+    "seq": 18017092,
+    "costume3dGroupId": 18017012,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017093,
+    "seq": 18017093,
+    "costume3dGroupId": 18017012,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017094,
+    "seq": 18017094,
+    "costume3dGroupId": 18017012,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017095,
+    "seq": 18017095,
+    "costume3dGroupId": 18017012,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017096,
+    "seq": 18017096,
+    "costume3dGroupId": 18017012,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017097,
+    "seq": 18017097,
+    "costume3dGroupId": 18017013,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017098,
+    "seq": 18017098,
+    "costume3dGroupId": 18017013,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017099,
+    "seq": 18017099,
+    "costume3dGroupId": 18017013,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017100,
+    "seq": 18017100,
+    "costume3dGroupId": 18017013,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017101,
+    "seq": 18017101,
+    "costume3dGroupId": 18017013,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017102,
+    "seq": 18017102,
+    "costume3dGroupId": 18017013,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017103,
+    "seq": 18017103,
+    "costume3dGroupId": 18017013,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017104,
+    "seq": 18017104,
+    "costume3dGroupId": 18017013,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017105,
+    "seq": 18017105,
+    "costume3dGroupId": 18017014,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017106,
+    "seq": 18017106,
+    "costume3dGroupId": 18017014,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017107,
+    "seq": 18017107,
+    "costume3dGroupId": 18017014,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017108,
+    "seq": 18017108,
+    "costume3dGroupId": 18017014,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017109,
+    "seq": 18017109,
+    "costume3dGroupId": 18017014,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017110,
+    "seq": 18017110,
+    "costume3dGroupId": 18017014,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017111,
+    "seq": 18017111,
+    "costume3dGroupId": 18017014,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017112,
+    "seq": 18017112,
+    "costume3dGroupId": 18017014,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017113,
+    "seq": 18017113,
+    "costume3dGroupId": 18017015,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017114,
+    "seq": 18017114,
+    "costume3dGroupId": 18017015,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017115,
+    "seq": 18017115,
+    "costume3dGroupId": 18017015,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017116,
+    "seq": 18017116,
+    "costume3dGroupId": 18017015,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017117,
+    "seq": 18017117,
+    "costume3dGroupId": 18017015,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017118,
+    "seq": 18017118,
+    "costume3dGroupId": 18017015,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017119,
+    "seq": 18017119,
+    "costume3dGroupId": 18017015,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017120,
+    "seq": 18017120,
+    "costume3dGroupId": 18017015,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017121,
+    "seq": 18017121,
+    "costume3dGroupId": 18017016,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017122,
+    "seq": 18017122,
+    "costume3dGroupId": 18017016,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017123,
+    "seq": 18017123,
+    "costume3dGroupId": 18017016,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017124,
+    "seq": 18017124,
+    "costume3dGroupId": 18017016,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017125,
+    "seq": 18017125,
+    "costume3dGroupId": 18017016,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017126,
+    "seq": 18017126,
+    "costume3dGroupId": 18017016,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017127,
+    "seq": 18017127,
+    "costume3dGroupId": 18017016,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017128,
+    "seq": 18017128,
+    "costume3dGroupId": 18017016,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017129,
+    "seq": 18017129,
+    "costume3dGroupId": 18017017,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017130,
+    "seq": 18017130,
+    "costume3dGroupId": 18017017,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017131,
+    "seq": 18017131,
+    "costume3dGroupId": 18017017,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017132,
+    "seq": 18017132,
+    "costume3dGroupId": 18017017,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017133,
+    "seq": 18017133,
+    "costume3dGroupId": 18017017,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017134,
+    "seq": 18017134,
+    "costume3dGroupId": 18017017,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017135,
+    "seq": 18017135,
+    "costume3dGroupId": 18017017,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017136,
+    "seq": 18017136,
+    "costume3dGroupId": 18017017,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017137,
+    "seq": 18017137,
+    "costume3dGroupId": 18017018,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017138,
+    "seq": 18017138,
+    "costume3dGroupId": 18017018,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017139,
+    "seq": 18017139,
+    "costume3dGroupId": 18017018,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017140,
+    "seq": 18017140,
+    "costume3dGroupId": 18017018,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017141,
+    "seq": 18017141,
+    "costume3dGroupId": 18017018,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017142,
+    "seq": 18017142,
+    "costume3dGroupId": 18017018,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017143,
+    "seq": 18017143,
+    "costume3dGroupId": 18017018,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017144,
+    "seq": 18017144,
+    "costume3dGroupId": 18017018,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017145,
+    "seq": 18017145,
+    "costume3dGroupId": 18017019,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017146,
+    "seq": 18017146,
+    "costume3dGroupId": 18017019,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017147,
+    "seq": 18017147,
+    "costume3dGroupId": 18017019,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017148,
+    "seq": 18017148,
+    "costume3dGroupId": 18017019,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017149,
+    "seq": 18017149,
+    "costume3dGroupId": 18017019,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017150,
+    "seq": 18017150,
+    "costume3dGroupId": 18017019,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017151,
+    "seq": 18017151,
+    "costume3dGroupId": 18017019,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017152,
+    "seq": 18017152,
+    "costume3dGroupId": 18017019,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017153,
+    "seq": 18017153,
+    "costume3dGroupId": 18017020,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017154,
+    "seq": 18017154,
+    "costume3dGroupId": 18017020,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017155,
+    "seq": 18017155,
+    "costume3dGroupId": 18017020,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017156,
+    "seq": 18017156,
+    "costume3dGroupId": 18017020,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017157,
+    "seq": 18017157,
+    "costume3dGroupId": 18017020,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017158,
+    "seq": 18017158,
+    "costume3dGroupId": 18017020,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017159,
+    "seq": 18017159,
+    "costume3dGroupId": 18017020,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18017160,
+    "seq": 18017160,
+    "costume3dGroupId": 18017020,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01082"
+  },
+  {
+    "id": 18018001,
+    "seq": 18018001,
+    "costume3dGroupId": 18018001,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018002,
+    "seq": 18018002,
+    "costume3dGroupId": 18018001,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018003,
+    "seq": 18018003,
+    "costume3dGroupId": 18018001,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018004,
+    "seq": 18018004,
+    "costume3dGroupId": 18018001,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018005,
+    "seq": 18018005,
+    "costume3dGroupId": 18018001,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018006,
+    "seq": 18018006,
+    "costume3dGroupId": 18018001,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018007,
+    "seq": 18018007,
+    "costume3dGroupId": 18018001,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018008,
+    "seq": 18018008,
+    "costume3dGroupId": 18018001,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018009,
+    "seq": 18018009,
+    "costume3dGroupId": 18018002,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018010,
+    "seq": 18018010,
+    "costume3dGroupId": 18018002,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018011,
+    "seq": 18018011,
+    "costume3dGroupId": 18018002,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018012,
+    "seq": 18018012,
+    "costume3dGroupId": 18018002,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018013,
+    "seq": 18018013,
+    "costume3dGroupId": 18018002,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018014,
+    "seq": 18018014,
+    "costume3dGroupId": 18018002,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018015,
+    "seq": 18018015,
+    "costume3dGroupId": 18018002,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018016,
+    "seq": 18018016,
+    "costume3dGroupId": 18018002,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018017,
+    "seq": 18018017,
+    "costume3dGroupId": 18018003,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018018,
+    "seq": 18018018,
+    "costume3dGroupId": 18018003,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018019,
+    "seq": 18018019,
+    "costume3dGroupId": 18018003,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018020,
+    "seq": 18018020,
+    "costume3dGroupId": 18018003,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018021,
+    "seq": 18018021,
+    "costume3dGroupId": 18018003,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018022,
+    "seq": 18018022,
+    "costume3dGroupId": 18018003,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018023,
+    "seq": 18018023,
+    "costume3dGroupId": 18018003,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018024,
+    "seq": 18018024,
+    "costume3dGroupId": 18018003,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018025,
+    "seq": 18018025,
+    "costume3dGroupId": 18018004,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018026,
+    "seq": 18018026,
+    "costume3dGroupId": 18018004,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018027,
+    "seq": 18018027,
+    "costume3dGroupId": 18018004,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018028,
+    "seq": 18018028,
+    "costume3dGroupId": 18018004,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018029,
+    "seq": 18018029,
+    "costume3dGroupId": 18018004,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018030,
+    "seq": 18018030,
+    "costume3dGroupId": 18018004,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018031,
+    "seq": 18018031,
+    "costume3dGroupId": 18018004,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018032,
+    "seq": 18018032,
+    "costume3dGroupId": 18018004,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018033,
+    "seq": 18018033,
+    "costume3dGroupId": 18018005,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018034,
+    "seq": 18018034,
+    "costume3dGroupId": 18018005,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018035,
+    "seq": 18018035,
+    "costume3dGroupId": 18018005,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018036,
+    "seq": 18018036,
+    "costume3dGroupId": 18018005,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018037,
+    "seq": 18018037,
+    "costume3dGroupId": 18018005,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018038,
+    "seq": 18018038,
+    "costume3dGroupId": 18018005,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018039,
+    "seq": 18018039,
+    "costume3dGroupId": 18018005,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018040,
+    "seq": 18018040,
+    "costume3dGroupId": 18018005,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018041,
+    "seq": 18018041,
+    "costume3dGroupId": 18018006,
+    "partType": "head",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018042,
+    "seq": 18018042,
+    "costume3dGroupId": 18018006,
+    "partType": "body",
+    "colorId": 1,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018043,
+    "seq": 18018043,
+    "costume3dGroupId": 18018006,
+    "partType": "head",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018044,
+    "seq": 18018044,
+    "costume3dGroupId": 18018006,
+    "partType": "body",
+    "colorId": 2,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018045,
+    "seq": 18018045,
+    "costume3dGroupId": 18018006,
+    "partType": "head",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018046,
+    "seq": 18018046,
+    "costume3dGroupId": 18018006,
+    "partType": "body",
+    "colorId": 3,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018047,
+    "seq": 18018047,
+    "costume3dGroupId": 18018006,
+    "partType": "head",
+    "colorId": 4,
+    "_assetbundleName": "01081"
+  },
+  {
+    "id": 18018048,
+    "seq": 18018048,
+    "costume3dGroupId": 18018006,
+    "partType": "body",
+    "colorId": 4,
+    "_assetbundleName": "01081"
   }
 ]
