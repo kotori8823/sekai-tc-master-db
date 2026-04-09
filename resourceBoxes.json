@@ -132758,6 +132758,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gift_detail",
     "name": null,
+    "id": 10083,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
+    "id": 10084,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
     "id": 9999999,
     "resourceBoxType": "expand"
   },
@@ -135699,6 +135713,13 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "此為即將滿4.5週年！登入活動的報酬",
     "id": 1194,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[花里實乃理]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1195,
     "resourceBoxType": "list"
   },
   {
@@ -181850,6 +181871,13 @@
     "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
     "name": null,
     "id": 3,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mysekai_housing_competition_back_number_reward",
+    "name": null,
+    "id": 100,
     "resourceBoxType": "expand"
   },
   {
