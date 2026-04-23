@@ -6282,6 +6282,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 20830,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 30005,
     "resourceBoxType": "expand"
   },
@@ -7389,6 +7396,34 @@
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
     "id": 30825,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30826,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30827,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30828,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30829,
     "resourceBoxType": "expand"
   },
   {
@@ -132240,6 +132275,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gift_detail",
     "name": null,
+    "id": 1493,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
+    "id": 1495,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
     "id": 1496,
     "resourceBoxType": "expand"
   },
@@ -135720,6 +135769,90 @@
     "resourceBoxPurpose": "login_bonus",
     "name": "此為[花里實乃理]HAPPY BIRTHDAY登入活動的報酬",
     "id": 1195,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第1天的報酬",
+    "id": 1196,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第2天的報酬",
+    "id": 1197,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第3天的報酬",
+    "id": 1198,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第4天的報酬",
+    "id": 1199,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第5天的報酬",
+    "id": 1200,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第6天的報酬",
+    "id": 1201,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第7天的報酬",
+    "id": 1202,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為我的「世界」應援 黃金週登入活動第8天的報酬",
+    "id": 1203,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[東雲繪名]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1204,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[天馬咲希]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1205,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[天馬司]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1206,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[青柳冬彌]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1207,
     "resourceBoxType": "list"
   },
   {
