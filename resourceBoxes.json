@@ -10069,6 +10069,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "name": null,
+    "id": 30177,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30178,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -180964,7 +180978,7 @@
     "resourceBoxType": "expand"
   },
   {
-    "assetbundleName": null,
+    "assetbundleName": "item_box_special",
     "resourceBoxPurpose": "mission_reward",
     "name": "[夏日派對]限時任務報酬",
     "id": 400096,
