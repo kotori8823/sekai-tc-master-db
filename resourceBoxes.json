@@ -7605,6 +7605,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 30856,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 30857,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 40001,
     "resourceBoxType": "expand"
   },
@@ -10077,6 +10091,34 @@
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "name": null,
     "id": 30178,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30179,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30180,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30181,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "name": null,
+    "id": 30182,
     "resourceBoxType": "expand"
   },
   {
@@ -136465,6 +136507,27 @@
     "resourceBoxType": "list"
   },
   {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[草薙寧寧]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1221,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[白石杏]HAPPY BIRTHDAY登入活動的報酬",
+    "id": 1222,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "此為[香港動漫電玩節]參展確定登入活動的報酬",
+    "id": 1223,
+    "resourceBoxType": "list"
+  },
+  {
     "assetbundleName": "gacha_cos0016_01",
     "resourceBoxPurpose": "master_lesson_reward",
     "name": "閃耀樂音[異色1]",
@@ -174183,63 +174246,63 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.2] ミク/リン/咲希/遥/杏/司/まふゆの設計図（S）",
+    "name": "[限定風格 vol.2] 初音未來/鏡音鈴/咲希/遙/杏/司/真冬的設計圖（S）",
     "id": 1856,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.2] ミク/リン/咲希/遥/杏/司の設計図（M）",
+    "name": "[限定風格 vol.2] 初音未來/鏡音鈴/咲希/遙/杏/司的設計圖（M）",
     "id": 1857,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.2] ミク/リン/咲希/遥/杏/司の設計図（L）",
+    "name": "[限定風格 vol.2] 初音未來/鏡音鈴/咲希/遙/杏/司的設計圖（L）",
     "id": 1858,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.2] KAITO/志歩/みのり/冬弥/寧々/奏の設計図（S）",
+    "name": "[限定風格 vol.2] KAITO/志步/實乃理/冬彌/寧寧/奏的設計圖（S）",
     "id": 1866,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.2] KAITO/志歩/みのり/冬弥/寧々/奏の設計図（M）",
+    "name": "[限定風格 vol.2] KAITO/志步/實乃理/冬彌/寧寧/奏的設計圖（M）",
     "id": 1867,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[リミテッドスタイル vol.2] KAITO/志歩/みのり/冬弥/寧々/奏の設計図（L）",
+    "name": "[限定風格 vol.2] KAITO/志步/實乃理/冬彌/寧寧/奏的設計圖（L）",
     "id": 1868,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[サンリオキャラクターズ]コラボ記念スタンプミッション報酬",
+    "name": "[三麗鷗明星]聯動紀念集章任務報酬",
     "id": 1883,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[プロセカ×あんさんぶるスターズ！！]コラボ記念スタンプミッション",
+    "name": "[世界計畫×偶像夢幻祭2]聯動紀念集章任務",
     "id": 2035,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
-    "name": "[プロセカ×あんさんぶるスターズ！！]コラボ記念スタンプミッション",
+    "name": "[世界計畫×偶像夢幻祭2]聯動紀念集章任務",
     "id": 2036,
     "resourceBoxType": "expand"
   },
@@ -180983,6 +181046,48 @@
     "name": "[夏日派對]限時任務報酬",
     "id": 400096,
     "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "練習譜（中級）*10",
+    "id": 400097,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "硬幣*30,000",
+    "id": 400098,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "音樂卡*10",
+    "id": 400099,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "心愿碎片*30",
+    "id": 400100,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "主唱卡交換券*1",
+    "id": 400101,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "限定稱號「迴轉舞台」",
+    "id": 400102,
+    "resourceBoxType": "expand"
   },
   {
     "assetbundleName": "dummy_material",
@@ -221601,21 +221706,21 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
-    "name": "「Dreamscape」ライブTシャツ（白）",
+    "name": "「Dreamscape」LIVE T恤（白）",
     "id": 399,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
-    "name": "「Dreamscape」ライブTシャツ（黒）",
+    "name": "「Dreamscape」LIVE T恤（黑）",
     "id": 400,
     "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "virtual_shop_item",
-    "name": "「Dreamscape」ライブキャップ",
+    "name": "「Dreamscape」LIVE棒球帽",
     "id": 401,
     "resourceBoxType": "expand"
   },
