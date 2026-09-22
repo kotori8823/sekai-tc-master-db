@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "randomBoxGroupId": 1,
+    "resourceBoxId": 1,
+    "rate": 60.0
+  },
+  {
+    "id": 2,
+    "randomBoxGroupId": 1,
+    "resourceBoxId": 2,
+    "rate": 20.0
+  },
+  {
+    "id": 3,
+    "randomBoxGroupId": 1,
+    "resourceBoxId": 3,
+    "rate": 10.0
+  },
+  {
+    "id": 4,
+    "randomBoxGroupId": 1,
+    "resourceBoxId": 4,
+    "rate": 8.0
+  },
+  {
+    "id": 5,
+    "randomBoxGroupId": 1,
+    "resourceBoxId": 5,
+    "rate": 2.0
+  },
+  {
+    "id": 6,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 6,
+    "rate": 62.0
+  },
+  {
+    "id": 7,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 7,
+    "rate": 30.0
+  },
+  {
+    "id": 8,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 8,
+    "rate": 5.0
+  },
+  {
+    "id": 9,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 9,
+    "rate": 3.0
+  }
+]
